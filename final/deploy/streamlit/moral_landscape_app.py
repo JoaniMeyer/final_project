@@ -3925,7 +3925,8 @@ def main():
         
         # Load V4 model evaluation results
         try:
-            v4_results_path = "/Users/joandrimeyer/Desktop/ubuntu-chaos-trends/final/deploy/moral_landscape_app/african_moral_classifier_V4/evaluation_results.json"
+            data_path = get_data_path()
+            v4_results_path = f"{data_path}evaluation_results.json"
             with open(v4_results_path, 'r') as f:
                 v4_results = json.load(f)
             
@@ -4154,7 +4155,7 @@ def main():
             
             # Try to load V2 results for comparison
             try:
-                v2_results_path = "/Users/joandrimeyer/Desktop/ubuntu-chaos-trends/final/scripts/african_moral_classifier_V2/evaluation_results.json"
+                v2_results_path = f"{data_path}../scripts/african_moral_classifier_V2/evaluation_results.json"
                 with open(v2_results_path, 'r') as f:
                     v2_results = json.load(f)
                 
@@ -4172,7 +4173,7 @@ def main():
             
             # Try to load V1 (original) results for comparison
             try:
-                v1_results_path = "/Users/joandrimeyer/Desktop/ubuntu-chaos-trends/final/scripts/african_moral_classifier/evaluation_results.json"
+                v1_results_path = f"{data_path}../scripts/african_moral_classifier/evaluation_results.json"
                 with open(v1_results_path, 'r') as f:
                     v1_results = json.load(f)
                 
