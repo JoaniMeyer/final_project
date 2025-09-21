@@ -1,6 +1,8 @@
 .env
 african_model_cache/
+# Exclude large parquet files but allow essential dashboard data
 *.parquet
+!final/deploy/streamlit/processed_data/*.parquet
 *.pkl
 *.joblib
 __pycache__/
