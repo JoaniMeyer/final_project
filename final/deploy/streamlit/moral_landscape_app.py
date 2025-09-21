@@ -166,6 +166,16 @@ def display_comment_content(comment, is_creator, creator_name):
     st.markdown("---")
 
 
+def get_data_path():
+    """Determine the correct data path based on deployment environment"""
+    if os.path.exists("processed_data/ordered_comments.parquet"):
+        return "processed_data/"
+    elif os.path.exists("final/deploy/streamlit/processed_data/ordered_comments.parquet"):
+        return "final/deploy/streamlit/processed_data/"
+    else:
+        return "processed_data/"
+
+
 def load_video_captions():
     """Load video captions from CSV files"""
     import warnings
@@ -208,8 +218,19 @@ def load_video_captions():
 def load_processed_data(cache_version="v7"):  # Increment version to force refresh
     """Load pre-processed data files"""
     try:
+        # Determine the correct data path based on deployment environment
+        if os.path.exists("processed_data/ordered_comments.parquet"):
+            # Running locally from streamlit directory
+            data_path = "processed_data/"
+        elif os.path.exists("final/deploy/streamlit/processed_data/ordered_comments.parquet"):
+            # Running from repository root (deployed)
+            data_path = "final/deploy/streamlit/processed_data/"
+        else:
+            # Fallback - try current directory
+            data_path = "processed_data/"
+        
         # Load ordered comments from streamlit processed data
-        comments_file = "processed_data/ordered_comments.parquet"
+        comments_file = f"{data_path}ordered_comments.parquet"
         if os.path.exists(comments_file):
             df = pd.read_parquet(comments_file)
             
@@ -229,7 +250,7 @@ def load_processed_data(cache_version="v7"):  # Increment version to force refre
             return None, None, None, None, None
         
         # Load analytics
-        analytics_file = "processed_data/analytics.json"
+        analytics_file = f"{data_path}analytics.json"
         if os.path.exists(analytics_file):
             with open(analytics_file, "r") as f:
                 analytics = json.load(f)
@@ -242,19 +263,19 @@ def load_processed_data(cache_version="v7"):  # Increment version to force refre
         ordered_data = df  # Use the same data since we're now loading ordered_comments as main df
         early_late_analysis = None
         
-        if os.path.exists("processed_data/early_late_analysis.parquet"):
-            early_late_analysis = pd.read_parquet("processed_data/early_late_analysis.parquet")
+        if os.path.exists(f"{data_path}early_late_analysis.parquet"):
+            early_late_analysis = pd.read_parquet(f"{data_path}early_late_analysis.parquet")
             print(f"Loaded early/late analysis data")
         
         # Load pre-computed moral map data
         moral_map_data = None
-        if os.path.exists("processed_data/moral_map_data.parquet"):
-            moral_map_data = pd.read_parquet("processed_data/moral_map_data.parquet")
+        if os.path.exists(f"{data_path}moral_map_data.parquet"):
+            moral_map_data = pd.read_parquet(f"{data_path}moral_map_data.parquet")
             print(f"Loaded moral map data")
         
         # Load enhanced topic analysis results (per-creator BERTopic results)
         enhanced_topic_results = {}
-        topics_dir = "processed_data/topics"
+        topics_dir = f"{data_path}topics"
         if os.path.exists(topics_dir):
             for filename in os.listdir(topics_dir):
                 if filename.endswith('.json'):
@@ -270,7 +291,7 @@ def load_processed_data(cache_version="v7"):  # Increment version to force refre
             enhanced_topic_results = {}
         
         # Load advanced topic analysis results
-        advanced_topic_file = "processed_data/advanced_topic_results.json"
+        advanced_topic_file = f"{data_path}advanced_topic_results.json"
         if os.path.exists(advanced_topic_file):
             with open(advanced_topic_file, "r") as f:
                 advanced_topic_results = json.load(f)
@@ -280,7 +301,7 @@ def load_processed_data(cache_version="v7"):  # Increment version to force refre
             advanced_topic_results = {}
         
         # Load basic topic analysis results as fallback
-        topic_file = "processed_data/topic_analysis_results.json"
+        topic_file = f"{data_path}topic_analysis_results.json"
         if os.path.exists(topic_file):
             with open(topic_file, "r") as f:
                 topic_results = json.load(f)
@@ -1598,7 +1619,8 @@ def main():
                     """Load topic results for a specific creator with caching"""
                     try:
                         import os
-                        cache_file = f"processed_data/topic_cache_{creator_id}_10_None_{cache_version}.json"
+                        data_path = get_data_path()
+                        cache_file = f"{data_path}topic_cache_{creator_id}_10_None_{cache_version}.json"
                         if os.path.exists(cache_file):
                             with open(cache_file, 'r', encoding='utf-8') as f:
                                 return json.load(f)
@@ -3119,7 +3141,8 @@ def main():
                 try:
                     # Load BERTopic data from all creators
                     all_bertopic_data = {}
-                    topics_dir = "processed_data/topics"
+                    data_path = get_data_path()
+                    topics_dir = f"{data_path}topics"
                     
                     if os.path.exists(topics_dir):
                         for filename in os.listdir(topics_dir):
