@@ -1,0 +1,43 @@
+{
+  "checkpoint": "./african_moral_classifier_V3/model_0/checkpoint-2028",
+  "overall": {
+    "accuracy": 0.9739583333333334,
+    "f1": 0.9739955582475268,
+    "precision": 0.9742664742664743,
+    "recall": 0.9739583333333334
+  },
+  "per_class": {
+    "Ubuntu": {
+      "precision": 0.9545454545454546,
+      "recall": 0.984375,
+      "f1": 0.9692307692307692
+    },
+    "Middle": {
+      "precision": 0.9682539682539683,
+      "recall": 0.953125,
+      "f1": 0.9606299212598425
+    },
+    "Chaos": {
+      "precision": 1.0,
+      "recall": 0.984375,
+      "f1": 0.9921259842519685
+    }
+  },
+  "confusion_matrix": [
+    [
+      63,
+      1,
+      0
+    ],
+    [
+      3,
+      61,
+      0
+    ],
+    [
+      0,
+      1,
+      63
+    ]
+  ]
+}

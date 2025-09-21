@@ -1,0 +1,28 @@
+.env
+african_model_cache/
+*.parquet
+*.pkl
+*.joblib
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Large model files and checkpoints
+checkpoint-*/
+model.safetensors
+optimizer.pt
+scheduler.pt
+rng_state.pth
+training_args.bin
+logs/
+*.tfevents.*
+
+# Virtual environments and large data files
+.venv*/
+venv*/
+env*/
+embeddings/
+scores_new_*/
+*.html
+.DS_Store

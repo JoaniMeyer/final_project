@@ -1,0 +1,24 @@
+# Enhanced Topic Modeling Requirements (Scikit-learn only)
+# Install with: pip install -r requirements_enhanced_topics.txt
+
+# Core topic modeling (scikit-learn only - no TensorFlow dependencies)
+scikit-learn>=1.1.0
+
+# Language detection
+langdetect>=1.0.9
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization (optional)
+plotly>=5.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Text processing
+nltk>=3.7
+regex>=2022.0.0
+
+# Progress bars
+tqdm>=4.64.0

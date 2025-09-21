@@ -1,0 +1,168 @@
+{
+  "0": {
+    "keywords": [
+      "god",
+      "people",
+      "love"
+    ],
+    "dominant_label": "Ubuntu",
+    "dominant_proportion": 0.5733045212765957,
+    "sentiment": "Mixed",
+    "text_count": 6016,
+    "sample_texts": [
+      "Maybe plan it for early 2025, start small 25-30 people, book a space & reach out to the makeup brands you have a relationship with. I most definitely believe you’ll get the support 🫶🏾",
+      "Please do an online one as well when you do decide to do it.",
+      "Do it!! Collab with a retail store, ARC, Woolies, NARS etc. host in store using their range products. 🥰🥰 Can’t wait to see an update on this"
+    ]
+  },
+  "7": {
+    "keywords": [
+      "amen",
+      "baie",
+      "amen",
+      "queen"
+    ],
+    "dominant_label": "Middle",
+    "dominant_proportion": 0.7151306062099556,
+    "sentiment": "Mixed",
+    "text_count": 2029,
+    "sample_texts": [
+      "😍😍😍",
+      "Thank you 🥹🩷🫶🏽",
+      "😭😭🩷"
+    ]
+  },
+  "2": {
+    "keywords": [
+      "god",
+      "baie",
+      "love",
+      "jou"
+    ],
+    "dominant_label": "Ubuntu",
+    "dominant_proportion": 0.4842468709538196,
+    "sentiment": "Mixed",
+    "text_count": 4634,
+    "sample_texts": [
+      "💐 I will also attend with love🥰",
+      "Iam not rooting unless us gauteng girlies can attend.. 😀😄😅❤️❤️👏👏👏",
+      "Yes plz I would attend for your vibes 🤭🔥"
+    ]
+  },
+  "8": {
+    "keywords": [
+      "amen",
+      "amen",
+      "true"
+    ],
+    "dominant_label": "Middle",
+    "dominant_proportion": 0.7412031782065834,
+    "sentiment": "Neutral",
+    "text_count": 1762,
+    "sample_texts": [
+      "wow amazing",
+      "Im there!!!",
+      "I would attend"
+    ]
+  },
+  "4": {
+    "keywords": [
+      "amen",
+      "dankie",
+      "amen",
+      "wow"
+    ],
+    "dominant_label": "Middle",
+    "dominant_proportion": 0.8840996168582376,
+    "sentiment": "Neutral",
+    "text_count": 2088,
+    "sample_texts": [
+      "🥰🥰🥰",
+      "🤭🤭",
+      "🥰🥰🥰"
+    ]
+  },
+  "6": {
+    "keywords": [
+      "god",
+      "love",
+      "god"
+    ],
+    "dominant_label": "Ubuntu",
+    "dominant_proportion": 0.5766262403528115,
+    "sentiment": "Mixed",
+    "text_count": 2721,
+    "sample_texts": [
+      "🥹🥹 so sweet",
+      "your are stunning omw😊",
+      "I’m coming !✨"
+    ]
+  },
+  "9": {
+    "keywords": [
+      "baie",
+      "wena",
+      "jou",
+      "bonang"
+    ],
+    "dominant_label": "Middle",
+    "dominant_proportion": 0.5749063670411985,
+    "sentiment": "Mixed",
+    "text_count": 2136,
+    "sample_texts": [
+      "Got mine🤎thanks Paula!",
+      "Your black loafers please plug",
+      "Mango on @Superbalist 🤎"
+    ]
+  },
+  "1": {
+    "keywords": [
+      "dankie",
+      "kevin",
+      "lol"
+    ],
+    "dominant_label": "Middle",
+    "dominant_proportion": 0.9888501742160278,
+    "sentiment": "Neutral",
+    "text_count": 2870,
+    "sample_texts": [
+      "😂",
+      "😂😂😂",
+      "😂😂😂"
+    ]
+  },
+  "3": {
+    "keywords": [
+      "yoh",
+      "love",
+      "yoh"
+    ],
+    "dominant_label": "Middle",
+    "dominant_proportion": 0.989247311827957,
+    "sentiment": "Neutral",
+    "text_count": 1581,
+    "sample_texts": [
+      "😭🤣",
+      "same😭🤣",
+      "🤣🤣🤣"
+    ]
+  },
+  "5": {
+    "keywords": [
+      "jou",
+      "nie",
+      "die",
+      "vir",
+      "het"
+    ],
+    "dominant_label": "Chaos",
+    "dominant_proportion": 0.5146792316056542,
+    "sentiment": "Mixed",
+    "text_count": 2759,
+    "sample_texts": [
+      "“Kim, how are you? Kim you live in haartebees…that is far😭”",
+      "Gelukkig is ons nie lui nie 😂😂",
+      "This will be a interesting week. Wie laaste lag, lag die lekkerste."
+    ]
+  }
+}

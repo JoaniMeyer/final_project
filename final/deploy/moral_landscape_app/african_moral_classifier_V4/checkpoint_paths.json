@@ -1,0 +1,7 @@
+{
+  "checkpoint_paths": [
+    "model_0/checkpoint-440",
+    "model_1/checkpoint-440",
+    "model_2/checkpoint-440"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "model_type": "transformer_v2",
+  "base_model": "Davlan/afro-xlmr-base",
+  "num_labels": 3,
+  "label_mapping": {
+    "Ubuntu": 0,
+    "Middle": 1,
+    "Chaos": 2
+  },
+  "training_data": {
+    "source": "../benchmark_manual_labeled_balanced.csv",
+    "total_examples": 880
+  },
+  "model_config": {
+    "max_length": 256,
+    "batch_size": 4,
+    "effective_batch_size": 16,
+    "epochs": 5,
+    "learning_rate": "3e-5",
+    "warmup_ratio": "0.15",
+    "scheduler": "cosine",
+    "mixed_precision": false,
+    "improvements": [
+      "Increased epochs from 3 to 5",
+      "Higher learning rate (3e-5 vs 2e-5)",
+      "Cosine annealing scheduler",
+      "More frequent evaluation",
+      "Better gradient accumulation",
+      "Increased warmup ratio"
+    ]
+  }
+}

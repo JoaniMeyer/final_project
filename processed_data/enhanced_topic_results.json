@@ -1,0 +1,504 @@
+{
+  "topic_info": [
+    {
+      "Topic": "esta3860_0",
+      "Name": "esta3860: Cultural Term: lekker",
+      "Count": 1,
+      "Top_Words": [
+        "lekker"
+      ],
+      "Word_Scores": [
+        1.0
+      ]
+    },
+    {
+      "Topic": "thepieterkriel_0",
+      "Name": "thepieterkriel: Cultural Term: ubuntu",
+      "Count": 1,
+      "Top_Words": [
+        "ubuntu"
+      ],
+      "Word_Scores": [
+        1.0
+      ]
+    },
+    {
+      "Topic": "wouterangel_0",
+      "Name": "wouterangel: Cultural Term: nee",
+      "Count": 1,
+      "Top_Words": [
+        "nee"
+      ],
+      "Word_Scores": [
+        1.0
+      ]
+    },
+    {
+      "Topic": "dodonyokamusic_0",
+      "Name": "dodonyokamusic: Cultural Term: ja",
+      "Count": 2,
+      "Top_Words": [
+        "ja"
+      ],
+      "Word_Scores": [
+        1.0
+      ]
+    },
+    {
+      "Topic": "dodonyokamusic_1",
+      "Name": "dodonyokamusic: Cultural Term: lekker",
+      "Count": 1,
+      "Top_Words": [
+        "lekker"
+      ],
+      "Word_Scores": [
+        1.0
+      ]
+    },
+    {
+      "Topic": "stadjer_0",
+      "Name": "stadjer: Cultural Term: ja",
+      "Count": 1,
+      "Top_Words": [
+        "ja"
+      ],
+      "Word_Scores": [
+        1.0
+      ]
+    }
+  ],
+  "topic_cultural_scores": {
+    "esta3860_0": {
+      "Language & Expression": 1.0
+    },
+    "thepieterkriel_0": {
+      "Identity & Philosophy": 1.0
+    },
+    "wouterangel_0": {
+      "Language & Expression": 1.0
+    },
+    "dodonyokamusic_0": {
+      "Language & Expression": 1.0
+    },
+    "dodonyokamusic_1": {
+      "Language & Expression": 1.0
+    },
+    "stadjer_0": {
+      "Language & Expression": 1.0
+    }
+  },
+  "moral_analysis": {
+    "esta3860_0": {
+      "ubuntu_prob": 0.4,
+      "chaos_prob": 0.3,
+      "middle_prob": 0.3,
+      "tilt": -0.10000000000000003,
+      "total_comments": 1
+    },
+    "thepieterkriel_0": {
+      "ubuntu_prob": 0.4,
+      "chaos_prob": 0.3,
+      "middle_prob": 0.3,
+      "tilt": -0.10000000000000003,
+      "total_comments": 1
+    },
+    "wouterangel_0": {
+      "ubuntu_prob": 0.4,
+      "chaos_prob": 0.3,
+      "middle_prob": 0.3,
+      "tilt": -0.10000000000000003,
+      "total_comments": 1
+    },
+    "dodonyokamusic_0": {
+      "ubuntu_prob": 0.4,
+      "chaos_prob": 0.3,
+      "middle_prob": 0.3,
+      "tilt": -0.10000000000000003,
+      "total_comments": 2
+    },
+    "dodonyokamusic_1": {
+      "ubuntu_prob": 0.5,
+      "chaos_prob": 0.5,
+      "middle_prob": 0.4,
+      "tilt": 0.0,
+      "total_comments": 1
+    },
+    "stadjer_0": {
+      "ubuntu_prob": 0.4,
+      "chaos_prob": 0.3,
+      "middle_prob": 0.3,
+      "tilt": -0.10000000000000003,
+      "total_comments": 1
+    }
+  },
+  "creator_results": {
+    "esta3860": {
+      "topic_info": [
+        {
+          "Topic": "esta3860_0",
+          "Name": "esta3860: Cultural Term: lekker",
+          "Count": 1,
+          "Top_Words": [
+            "lekker"
+          ],
+          "Word_Scores": [
+            1.0
+          ]
+        }
+      ],
+      "topic_cultural_scores": {
+        "0": {
+          "Language & Expression": 1.0
+        }
+      },
+      "moral_analysis": {
+        "0": {
+          "ubuntu_prob": 0.4,
+          "chaos_prob": 0.3,
+          "middle_prob": 0.3,
+          "tilt": -0.10000000000000003,
+          "total_comments": 1
+        }
+      },
+      "num_comments": 22
+    },
+    "martiebrandon6": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 32
+    },
+    "rinagoslin5": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 12
+    },
+    "nation.building.sa": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 15
+    },
+    "thepieterkriel": {
+      "topic_info": [
+        {
+          "Topic": "thepieterkriel_0",
+          "Name": "thepieterkriel: Cultural Term: ubuntu",
+          "Count": 1,
+          "Top_Words": [
+            "ubuntu"
+          ],
+          "Word_Scores": [
+            1.0
+          ]
+        }
+      ],
+      "topic_cultural_scores": {
+        "0": {
+          "Identity & Philosophy": 1.0
+        }
+      },
+      "moral_analysis": {
+        "0": {
+          "ubuntu_prob": 0.4,
+          "chaos_prob": 0.3,
+          "middle_prob": 0.3,
+          "tilt": -0.10000000000000003,
+          "total_comments": 1
+        }
+      },
+      "num_comments": 58
+    },
+    "tokkie.777": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 19
+    },
+    "tjc52867": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 27
+    },
+    "shawdolove": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 11
+    },
+    "http.stopyalyin": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 19
+    },
+    "the.greatone6": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 11
+    },
+    "plimplomploom": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 11
+    },
+    "momo333300": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 11
+    },
+    "canine_crusader": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 12
+    },
+    "trendlines_po": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 12
+    },
+    "cheeryaschips": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 13
+    },
+    "wouterangel": {
+      "topic_info": [
+        {
+          "Topic": "wouterangel_0",
+          "Name": "wouterangel: Cultural Term: nee",
+          "Count": 1,
+          "Top_Words": [
+            "nee"
+          ],
+          "Word_Scores": [
+            1.0
+          ]
+        }
+      ],
+      "topic_cultural_scores": {
+        "0": {
+          "Language & Expression": 1.0
+        }
+      },
+      "moral_analysis": {
+        "0": {
+          "ubuntu_prob": 0.4,
+          "chaos_prob": 0.3,
+          "middle_prob": 0.3,
+          "tilt": -0.10000000000000003,
+          "total_comments": 1
+        }
+      },
+      "num_comments": 15
+    },
+    "dixietony1": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 11
+    },
+    "memorytee_": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 15
+    },
+    "zamo6992": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 10
+    },
+    "christinachriatives": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 14
+    },
+    "no_.prisoners": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 17
+    },
+    "solcf7": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 20
+    },
+    "armandolio_1": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 10
+    },
+    "lebogang_madlopa": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 12
+    },
+    "judarnold": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 10
+    },
+    "burganburgundy": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 15
+    },
+    "brian_zaca": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 12
+    },
+    "denf.gift.carousel": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 11
+    },
+    "dodonyokamusic": {
+      "topic_info": [
+        {
+          "Topic": "dodonyokamusic_0",
+          "Name": "dodonyokamusic: Cultural Term: ja",
+          "Count": 2,
+          "Top_Words": [
+            "ja"
+          ],
+          "Word_Scores": [
+            1.0
+          ]
+        },
+        {
+          "Topic": "dodonyokamusic_1",
+          "Name": "dodonyokamusic: Cultural Term: lekker",
+          "Count": 1,
+          "Top_Words": [
+            "lekker"
+          ],
+          "Word_Scores": [
+            1.0
+          ]
+        }
+      ],
+      "topic_cultural_scores": {
+        "0": {
+          "Language & Expression": 1.0
+        },
+        "1": {
+          "Language & Expression": 1.0
+        }
+      },
+      "moral_analysis": {
+        "0": {
+          "ubuntu_prob": 0.4,
+          "chaos_prob": 0.3,
+          "middle_prob": 0.3,
+          "tilt": -0.10000000000000003,
+          "total_comments": 2
+        },
+        "1": {
+          "ubuntu_prob": 0.5,
+          "chaos_prob": 0.5,
+          "middle_prob": 0.4,
+          "tilt": 0.0,
+          "total_comments": 1
+        }
+      },
+      "num_comments": 72
+    },
+    "gibbs140": {
+      "topic_info": [],
+      "topic_cultural_scores": {},
+      "moral_analysis": {},
+      "num_comments": 14
+    },
+    "stadjer": {
+      "topic_info": [
+        {
+          "Topic": "stadjer_0",
+          "Name": "stadjer: Cultural Term: ja",
+          "Count": 1,
+          "Top_Words": [
+            "ja"
+          ],
+          "Word_Scores": [
+            1.0
+          ]
+        }
+      ],
+      "topic_cultural_scores": {
+        "0": {
+          "Language & Expression": 1.0
+        }
+      },
+      "moral_analysis": {
+        "0": {
+          "ubuntu_prob": 0.4,
+          "chaos_prob": 0.3,
+          "middle_prob": 0.3,
+          "tilt": -0.10000000000000003,
+          "total_comments": 1
+        }
+      },
+      "num_comments": 10
+    }
+  },
+  "model_metadata": {
+    "num_topics": 6,
+    "num_comments": 12360,
+    "cultural_terms_used": 16,
+    "languages_detected": 2,
+    "timestamp": "2025-09-12T15:16:29.412921",
+    "fallback_mode": true,
+    "creators_analyzed": [
+      "esta3860",
+      "martiebrandon6",
+      "rinagoslin5",
+      "nation.building.sa",
+      "thepieterkriel",
+      "tokkie.777",
+      "tjc52867",
+      "shawdolove",
+      "http.stopyalyin",
+      "the.greatone6",
+      "plimplomploom",
+      "momo333300",
+      "canine_crusader",
+      "trendlines_po",
+      "cheeryaschips",
+      "wouterangel",
+      "dixietony1",
+      "memorytee_",
+      "zamo6992",
+      "christinachriatives",
+      "no_.prisoners",
+      "solcf7",
+      "armandolio_1",
+      "lebogang_madlopa",
+      "judarnold",
+      "burganburgundy",
+      "brian_zaca",
+      "denf.gift.carousel",
+      "dodonyokamusic",
+      "gibbs140",
+      "stadjer"
+    ]
+  }
+}

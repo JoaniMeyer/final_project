@@ -1,0 +1,20 @@
+# Main requirements for Moral Landscape Streamlit App
+
+# Core ML and data processing
+torch>=2.0.0
+transformers>=4.30.0
+pandas>=1.5.0
+numpy>=1.21.0
+pyarrow>=10.0.0
+scikit-learn>=1.2.0
+
+# 3D visualization and dimensionality reduction
+umap-learn>=0.5.3
+plotly>=5.15.0
+
+# Streamlit and web dependencies
+streamlit>=1.28.0
+streamlit-plotly-events>=0.0.8
+
+# Additional utilities
+tqdm>=4.64.0

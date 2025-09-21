@@ -1,0 +1,75 @@
+{
+  "overall": {
+    "accuracy": 0.75,
+    "f1": 0.7402512934220251,
+    "precision": 0.755636292571997,
+    "recall": 0.75
+  },
+  "per_class": {
+    "Ubuntu": {
+      "precision": 0.7093023255813954,
+      "recall": 0.953125,
+      "f1": 0.8133333333333334
+    },
+    "Middle": {
+      "precision": 0.7058823529411765,
+      "recall": 0.5,
+      "f1": 0.5853658536585366
+    },
+    "Chaos": {
+      "precision": 0.8392857142857143,
+      "recall": 0.734375,
+      "f1": 0.7833333333333333
+    }
+  },
+  "confusion_matrix": [
+    [
+      61,
+      3,
+      0
+    ],
+    [
+      15,
+      24,
+      9
+    ],
+    [
+      10,
+      7,
+      47
+    ]
+  ],
+  "classification_report": {
+    "Ubuntu": {
+      "precision": 0.7093023255813954,
+      "recall": 0.953125,
+      "f1-score": 0.8133333333333334,
+      "support": 64.0
+    },
+    "Middle": {
+      "precision": 0.7058823529411765,
+      "recall": 0.5,
+      "f1-score": 0.5853658536585366,
+      "support": 48.0
+    },
+    "Chaos": {
+      "precision": 0.8392857142857143,
+      "recall": 0.734375,
+      "f1-score": 0.7833333333333333,
+      "support": 64.0
+    },
+    "accuracy": 0.75,
+    "macro avg": {
+      "precision": 0.7514901309360954,
+      "recall": 0.7291666666666666,
+      "f1-score": 0.7273441734417344,
+      "support": 176.0
+    },
+    "weighted avg": {
+      "precision": 0.755636292571997,
+      "recall": 0.75,
+      "f1-score": 0.7402512934220251,
+      "support": 176.0
+    }
+  }
+}

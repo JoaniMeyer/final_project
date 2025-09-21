@@ -1,0 +1,4590 @@
+[
+  {
+    "term": "ag man",
+    "variants": [],
+    "category": [
+      "discourse_marker",
+      "negative_expression"
+    ],
+    "meaning": "Oh man/come on (dismissive).",
+    "usage": "Ag man, leave it.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ag shame",
+    "meaning": "expression of pity, sympathy, or endearment",
+    "category": [
+      "emotional_expression"
+    ],
+    "variants": [
+      "shame"
+    ],
+    "notes": "Common SA English interjection",
+    "style_tags": [
+      "emotional_expression",
+      "sympathy"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ama2000",
+    "variants": [],
+    "category": [
+      "person_reference"
+    ],
+    "meaning": "Post\u20112000 generation (Gen Z in SA context).",
+    "usage": "Ama2000 don't play.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "amakhosi",
+    "meaning": "chiefs; nickname for Kaizer Chiefs football club",
+    "category": [
+      "sports_reference",
+      "cultural_identity"
+    ],
+    "variants": [],
+    "notes": "Zulu origin",
+    "style_tags": [
+      "sports_team",
+      "football"
+    ],
+    "topic": "Sports & Recreation"
+  },
+  {
+    "term": "amapiano",
+    "variants": [],
+    "category": [
+      "music_genre"
+    ],
+    "meaning": "SA house subgenre with log drums & piano riffs.",
+    "usage": "Amapiano to the world.",
+    "style_tags": [
+      "music_genre",
+      "house_music"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "are you normal",
+    "variants": [],
+    "category": [
+      "conversation_marker",
+      "confrontation"
+    ],
+    "meaning": "SA English rhetorical challenge.",
+    "usage": "Are you normal? Why do that?",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ayikho lento",
+    "variants": [],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "This thing doesn\u2019t exist/stop that.",
+    "usage": "Ayikho lento, maan.",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "babalas",
+    "variants": [],
+    "category": [
+      "health_condition"
+    ],
+    "meaning": "Hangover.",
+    "usage": "I'm babalas from last night.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "bafana bafana",
+    "meaning": "nickname for South Africa\u2019s men\u2019s national soccer team",
+    "category": [
+      "sports_reference"
+    ],
+    "variants": [],
+    "notes": "Zulu phrase 'the boys'",
+    "style_tags": [
+      "sports_team",
+      "football"
+    ],
+    "topic": "Sports & Recreation"
+  },
+  {
+    "term": "bakkie",
+    "meaning": "small pickup truck commonly used for transport or work",
+    "category": [
+      "transportation"
+    ],
+    "variants": [
+      "van"
+    ],
+    "notes": "Widely used in South Africa; not the same as a van in the UK/US sense",
+    "style_tags": [
+      "vehicle",
+      "pickup_truck"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "bakkies",
+    "meaning": "nickname, often for John Smit or a tough rugby player",
+    "category": [
+      "person_reference",
+      "sports_reference"
+    ],
+    "variants": [],
+    "notes": "Also personal nickname in rugby culture",
+    "style_tags": [
+      "vehicle",
+      "pickup_truck"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "bakkieshout",
+    "meaning": "firewood suitable for braaiing",
+    "category": [
+      "place_geography"
+    ],
+    "variants": [],
+    "notes": "Informal; compound of 'bakkies' and 'hout' (wood)",
+    "style_tags": [
+      "vehicle_sound",
+      "honking"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "biltong",
+    "meaning": "dried cured meat snack",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [],
+    "notes": "Distinct from American jerky",
+    "style_tags": [
+      "traditional_food",
+      "preserved_meat"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "bliksem",
+    "variants": [],
+    "category": [
+      "confrontation",
+      "negative_expression"
+    ],
+    "meaning": "Expletive or threat meaning to hit/strike.",
+    "usage": "Hy gaan jou bliksem.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "bobotie",
+    "meaning": "oven-baked spiced minced meat with an egg-based topping",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [],
+    "notes": "Cape Malay and Afrikaans heritage",
+    "style_tags": [
+      "traditional_food",
+      "curry_dish"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "boeremusiek",
+    "meaning": "light Afrikaans folk dance music",
+    "category": [
+      "music_genre"
+    ],
+    "variants": [],
+    "notes": "Associated with concertina; social dances",
+    "style_tags": [
+      "traditional_music",
+      "folk_music"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "boerewors",
+    "meaning": "traditional spiced sausage, often cooked on the braai",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [
+      "wors"
+    ],
+    "notes": "Afrikaans 'farmer\u2019s sausage'",
+    "style_tags": [
+      "traditional_food",
+      "sausage"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "boerie",
+    "variants": [],
+    "category": [
+      "traditional_food",
+      "traditional_food"
+    ],
+    "meaning": "Boerewors (shortening).",
+    "usage": "Boerie rolls for everyone.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "boerie roll",
+    "meaning": "boerewors hotdog served in a roll",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [
+      "boerie"
+    ],
+    "notes": "Common at sports events and markets",
+    "style_tags": [
+      "street_food",
+      "sausage"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "boet",
+    "variants": [
+      "boetie"
+    ],
+    "category": [
+      "social_interaction"
+    ],
+    "meaning": "Mate/bro (address).",
+    "usage": "Relax, boet.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "bokke",
+    "meaning": "Springbok rugby team nickname",
+    "category": [
+      "sports_reference"
+    ],
+    "variants": [
+      "boks"
+    ],
+    "notes": "National rugby team",
+    "style_tags": [
+      "sports_team",
+      "rugby"
+    ],
+    "topic": "Sports & Recreation"
+  },
+  {
+    "term": "bokkie",
+    "meaning": "term of endearment (sweetheart); also small antelope",
+    "category": [
+      "relationship_term",
+      "person_reference"
+    ],
+    "variants": [],
+    "notes": "Afrikaans diminutive of 'bok'",
+    "style_tags": [
+      "endearment",
+      "sweetheart"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "boma",
+    "meaning": "enclosure; open-air dining area or stockade",
+    "category": [
+      "cultural_identity",
+      "place_geography"
+    ],
+    "variants": [],
+    "notes": "Used in safari/lodge contexts",
+    "style_tags": [
+      "traditional",
+      "enclosure"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "bosberaad",
+    "meaning": "meeting/retreat in a remote setting to resolve issues",
+    "category": [
+      "cultural_identity",
+      "economic_activity"
+    ],
+    "variants": [],
+    "notes": "Afrikaans 'bush council'",
+    "style_tags": [
+      "business",
+      "meeting"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "bozza",
+    "variants": [],
+    "category": [
+      "person_reference",
+      "social_status"
+    ],
+    "meaning": "Boss/big shot.",
+    "usage": "Speak to the bozza.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "braai",
+    "meaning": "to barbecue over open coals; also the social gathering around it",
+    "category": [
+      "traditional_food",
+      "cultural_identity"
+    ],
+    "variants": [
+      "braaivleis (meat)"
+    ],
+    "notes": "Afrikaans origin; central to SA social life",
+    "style_tags": [
+      "traditional_food",
+      "social_activity",
+      "cultural_identity"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "braaivleis",
+    "meaning": "grilled meat cooked over coals; also a barbecue event",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [
+      "braai"
+    ],
+    "notes": "Afrikaans compound of 'braai' (grill) + 'vleis' (meat)",
+    "style_tags": [
+      "traditional_food",
+      "grilled_meat",
+      "social_activity"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "bru",
+    "variants": [
+      "bra"
+    ],
+    "category": [
+      "social_interaction"
+    ],
+    "meaning": "Buddy; pal; dude (address).",
+    "usage": "Aweh, bru!",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "bru, jy sien",
+    "variants": [],
+    "category": [
+      "conversation_marker",
+      "preparation"
+    ],
+    "meaning": "Discourse opener: 'Bru, you see\u2026'",
+    "usage": "Bru, jy sien, it's like this\u2026",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "bundu",
+    "meaning": "remote or wild country; the bush",
+    "category": [
+      "place_geography",
+      "informal_language"
+    ],
+    "variants": [],
+    "notes": "Also in phrase 'bundu bashing'",
+    "style_tags": [
+      "geography",
+      "bush"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "bunny chow",
+    "meaning": "half loaf of bread hollowed out and filled with curry",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [],
+    "notes": "Originated in Durban Indian community",
+    "style_tags": [
+      "traditional_food",
+      "curry_dish"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "china",
+    "variants": [],
+    "category": [
+      "social_interaction"
+    ],
+    "meaning": "Buddy/friend (address).",
+    "usage": "You good, china?",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "chommie",
+    "variants": [
+      "tjommie",
+      "chomie"
+    ],
+    "category": [
+      "social_interaction"
+    ],
+    "meaning": "Friend; pal (address).",
+    "usage": "Thanks, chommie.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "chop",
+    "variants": [],
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Mild insult meaning fool/idiot.",
+    "usage": "Don't be a chop.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "dagga",
+    "meaning": "cannabis (South African usage)",
+    "category": [
+      "health_wellness",
+      "informal_language"
+    ],
+    "variants": [],
+    "notes": "From Afrikaans; widely used across SA",
+    "style_tags": [
+      "substance",
+      "cannabis"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "dof",
+    "variants": [],
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Mild insult: stupid/dim.",
+    "usage": "Don't be dof, man.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "doos",
+    "variants": [],
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Vulgar insult roughly meaning 'idiot' or 'jerk'.",
+    "usage": "Hy's 'n doos, man.",
+    "style_tags": [
+      "slang",
+      "vulgar"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "dop",
+    "meaning": "a tot or small alcoholic drink; also a verb to fail (exams)",
+    "category": [
+      "informal_language"
+    ],
+    "variants": [
+      "doppie (spent cartridge)"
+    ],
+    "notes": "Multiple senses; regionally varied",
+    "style_tags": [
+      "alcohol",
+      "drink"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "dop en tjop",
+    "meaning": "drink and chop; casual braai/get-together",
+    "category": [
+      "traditional_food",
+      "conversation_marker"
+    ],
+    "variants": [],
+    "notes": "Rhyming phrase around braai culture",
+    "style_tags": [
+      "alcohol",
+      "traditional_food"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "doppie",
+    "meaning": "cartridge case (spent shell)",
+    "category": [
+      "physical_object",
+      "informal_language"
+    ],
+    "variants": [],
+    "notes": "Afrikaans diminutive of 'dop'",
+    "style_tags": [
+      "alcohol",
+      "drink"
+    ],
+    "topic": "Fashion & Lifestyle"
+  },
+  {
+    "term": "dorp",
+    "meaning": "small rural town",
+    "category": [
+      "place_geography"
+    ],
+    "variants": [],
+    "notes": "Afrikaans origin",
+    "style_tags": [
+      "geography",
+      "small_town"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "durbs",
+    "variants": [
+      "dbn"
+    ],
+    "category": [
+      "place_geography"
+    ],
+    "meaning": "Durban (nickname).",
+    "usage": "Surf\u2019s up in Durbs.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "eina",
+    "variants": [],
+    "category": [
+      "discourse_marker"
+    ],
+    "meaning": "Ouch!",
+    "usage": "Eina! My toe!",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "eish wena",
+    "variants": [],
+    "category": [
+      "emotional_expression",
+      "location_reference"
+    ],
+    "meaning": "Frustrated address aimed at 'you'.",
+    "usage": "Eish wena, stop that.",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ek klaar",
+    "variants": [],
+    "category": [
+      "conversation_marker",
+      "agreement"
+    ],
+    "meaning": "I'm done/that\u2019s it.",
+    "usage": "Ek klaar with this.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ek se",
+    "variants": [
+      "ek s\u00ea"
+    ],
+    "category": [
+      "conversation_marker",
+      "discourse_marker"
+    ],
+    "meaning": "Listen here / I'm telling you.",
+    "usage": "Ek se, that DJ was fire.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ekasi",
+    "variants": [
+      "kasi"
+    ],
+    "category": [
+      "place_geography",
+      "cultural_identity"
+    ],
+    "meaning": "In the township; township culture.",
+    "usage": "We are ekasi today.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "fresh fresh",
+    "variants": [],
+    "category": [
+      "fashion_style",
+      "emotional_expression"
+    ],
+    "meaning": "High praise for looking/styling good.",
+    "usage": "Your outfit is fresh fresh.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Fashion & Lifestyle"
+  },
+  {
+    "term": "gatskop",
+    "meaning": "awesome; great fun; also rowdy (context-dependent)",
+    "category": [
+      "informal_language"
+    ],
+    "variants": [],
+    "notes": "Informal; may be regionally specific",
+    "style_tags": [
+      "insult",
+      "head_butt"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "gatvol",
+    "variants": [],
+    "category": [
+      "emotional_expression",
+      "emotional_expression"
+    ],
+    "meaning": "Fed up; had enough.",
+    "usage": "I'm gatvol of this.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "gogga",
+    "meaning": "an insect or creepy-crawly; any small bug",
+    "category": [
+      "natural_environment",
+      "informal_language"
+    ],
+    "variants": [],
+    "notes": "From Khoikhoi via Afrikaans",
+    "style_tags": [
+      "insect",
+      "bug"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "goggos",
+    "meaning": "plural colloquial for small bugs/insects",
+    "category": [
+      "natural_environment",
+      "informal_language"
+    ],
+    "variants": [
+      "goggas"
+    ],
+    "notes": "Variant plural spellings used",
+    "style_tags": [
+      "family",
+      "grandmother"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "gooi",
+    "variants": [],
+    "category": [
+      "activity",
+      "emotional_expression"
+    ],
+    "meaning": "Throw/serve/do with enthusiasm.",
+    "usage": "Gooi some sauce on it.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Sports & Recreation"
+  },
+  {
+    "term": "gqom",
+    "variants": [],
+    "category": [
+      "music_genre"
+    ],
+    "meaning": "Durban-born dance genre; hard percussion.",
+    "usage": "Old gqom still slaps.",
+    "style_tags": [
+      "music_genre",
+      "electronic"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "groot baas",
+    "variants": [],
+    "category": [
+      "person_reference",
+      "social_status"
+    ],
+    "meaning": "Big boss.",
+    "usage": "The groot baas approved.",
+    "style_tags": [
+      "respect",
+      "boss"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "haai",
+    "variants": [],
+    "category": [
+      "discourse_marker"
+    ],
+    "meaning": "Disbelief/exasperation.",
+    "usage": "Haai, man!",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "hai suka",
+    "variants": [],
+    "category": [
+      "negative_expression",
+      "emotional_expression"
+    ],
+    "meaning": "Get away! (dismissive).",
+    "usage": "Hai suka, man!",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "haibo pls",
+    "variants": [],
+    "category": [
+      "digital_communication",
+      "emotional_expression"
+    ],
+    "meaning": "Online disbelief shorthand.",
+    "usage": "Haibo pls, that price!",
+    "style_tags": [
+      "internet"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "hamba kancane",
+    "variants": [],
+    "category": [
+      "action_instruction",
+      "speed_reference"
+    ],
+    "meaning": "Go slowly.",
+    "usage": "Hamba kancane there.",
+    "style_tags": [
+      "common"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "hayi khona",
+    "variants": [],
+    "category": [
+      "negative_expression",
+      "confrontation"
+    ],
+    "meaning": "No ways / not happening.",
+    "usage": "Hayi khona, that\u2019s unfair.",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "hou bene",
+    "variants": [],
+    "category": [
+      "motivation",
+      "resourcefulness"
+    ],
+    "meaning": "Hold the line/keep going.",
+    "usage": "Hou bene till the end!",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "hou duime",
+    "variants": [],
+    "category": [
+      "fortune",
+      "non_verbal"
+    ],
+    "meaning": "Keep thumbs pressed (good luck).",
+    "usage": "Hou duime for me!",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "indaba",
+    "meaning": "meeting or conference",
+    "category": [
+      "relationship_term"
+    ],
+    "variants": [],
+    "notes": "Zulu origin; often formal gatherings",
+    "style_tags": [
+      "traditional",
+      "meeting"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "inyanga",
+    "meaning": "traditional herbalist",
+    "category": [
+      "cultural_identity",
+      "health_wellness"
+    ],
+    "variants": [],
+    "notes": "Different role from 'sangoma'",
+    "style_tags": [
+      "traditional_healer",
+      "herbalist"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "is it",
+    "variants": [],
+    "category": [
+      "conversation_marker",
+      "agreement"
+    ],
+    "meaning": "South Africanism meaning 'oh really?'/'is that so?'",
+    "usage": "Is it? No ways!",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ja nee",
+    "variants": [
+      "ja-nee",
+      "ja, nee"
+    ],
+    "category": [
+      "conversation_marker"
+    ],
+    "meaning": "'Yeah, no'\u2014agreement/hedging.",
+    "usage": "Ja nee, it's tricky.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "jislaaik",
+    "variants": [
+      "jislike",
+      "yislaaik"
+    ],
+    "category": [
+      "discourse_marker"
+    ],
+    "meaning": "Exclamation: wow/gosh.",
+    "usage": "Jislaaik, that was close!",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "jozi",
+    "variants": [
+      "jo'burg",
+      "joburg"
+    ],
+    "category": [
+      "place_geography"
+    ],
+    "meaning": "Johannesburg (nickname).",
+    "usage": "Back in Jozi.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "just now",
+    "variants": [
+      "just-now"
+    ],
+    "category": [
+      "temporal_reference",
+      "temporal_reference"
+    ],
+    "meaning": "Soon/in a little while (SA sense).",
+    "usage": "I'll do it just now.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "kak",
+    "variants": [
+      "k@k",
+      "k*k"
+    ],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "Expletive meaning 'shit'; also 'nonsense' or 'bad quality'.",
+    "usage": "That take is kak.",
+    "style_tags": [
+      "slang",
+      "vulgar"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "kamma",
+    "variants": [],
+    "category": [
+      "grammatical"
+    ],
+    "meaning": "Pretend/as if/fake.",
+    "usage": "He's kamma busy.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "kanti wena",
+    "variants": [],
+    "category": [
+      "confrontation",
+      "emotional_expression"
+    ],
+    "meaning": "Confrontational surprise: 'But you\u2026!'",
+    "usage": "Kanti wena, why lie?",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "kasi lingo",
+    "variants": [],
+    "category": [
+      "communication",
+      "cultural_identity"
+    ],
+    "meaning": "Township speech patterns/slang umbrella.",
+    "usage": "He speaks kasi lingo.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "kasi vibes",
+    "variants": [
+      "ekasi vibes"
+    ],
+    "category": [
+      "cultural_identity",
+      "fashion_style"
+    ],
+    "meaning": "Township style/energy.",
+    "usage": "The party had kasi vibes.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "khona manje",
+    "variants": [],
+    "category": [
+      "temporal_reference",
+      "temporal_reference"
+    ],
+    "meaning": "Right now / immediately.",
+    "usage": "Khona manje, let's go.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "khuphuka",
+    "variants": [],
+    "category": [
+      "action_instruction",
+      "movement"
+    ],
+    "meaning": "Move up/climb (Zulu).",
+    "usage": "Khuphuka quickly.",
+    "style_tags": [
+      "common"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "kiff",
+    "meaning": "slang for cool, awesome",
+    "category": [
+      "informal_language"
+    ],
+    "variants": [],
+    "notes": "Surf/skater subculture origin",
+    "style_tags": [
+      "quality",
+      "good"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "kloof",
+    "meaning": "steep-sided valley; ravine",
+    "category": [
+      "place_geography"
+    ],
+    "variants": [],
+    "notes": "Afrikaans origin",
+    "style_tags": [
+      "geography",
+      "valley"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "koppie",
+    "meaning": "small hill; rocky outcrop",
+    "category": [
+      "place_geography"
+    ],
+    "variants": [
+      "kopje"
+    ],
+    "notes": "Afrikaans diminutive of 'kop' (head)",
+    "style_tags": [
+      "geography",
+      "hill"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "kraal",
+    "meaning": "enclosure for livestock; traditional homestead",
+    "category": [
+      "cultural_identity",
+      "farming_activity"
+    ],
+    "variants": [],
+    "notes": "From Portuguese via Afrikaans/Nguni; usage varies by context",
+    "style_tags": [
+      "traditional",
+      "cattle_enclosure"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "kwaito",
+    "meaning": "South African house music genre with township roots",
+    "category": [
+      "music_genre"
+    ],
+    "variants": [],
+    "notes": "1990s urban culture",
+    "style_tags": [
+      "music_genre",
+      "hip_hop"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "laager",
+    "meaning": "defensive circle of wagons; figuratively defensive mindset",
+    "category": [
+      "cultural_identity",
+      "figurative_language"
+    ],
+    "variants": [
+      "lager (variant spelling)"
+    ],
+    "notes": "From Afrikaans 'laer'",
+    "style_tags": [
+      "geography",
+      "camp"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "laaitie",
+    "variants": [
+      "laatie"
+    ],
+    "category": [
+      "person_reference"
+    ],
+    "meaning": "Young boy; youngster.",
+    "usage": "That laaitie can play.",
+    "style_tags": [
+      "age_reference",
+      "young_person"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "laanie",
+    "variants": [],
+    "category": [
+      "person_reference",
+      "social_status"
+    ],
+    "meaning": "Boss/rich guy (Cape slang).",
+    "usage": "The laanie sorted the bill.",
+    "style_tags": [
+      "class_reference",
+      "rich_person"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "lekka",
+    "meaning": "slang for nice, good, or cool",
+    "category": [
+      "informal_language"
+    ],
+    "variants": [
+      "lekker"
+    ],
+    "notes": "Informal Afrikaans-derived term",
+    "style_tags": [
+      "food_quality",
+      "tasty"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "lekker",
+    "meaning": "tasty; nice; enjoyable; cool",
+    "category": [
+      "informal_language",
+      "assessment"
+    ],
+    "variants": [],
+    "notes": "Very common in SA English; phrase 'local is lekker'",
+    "style_tags": [
+      "food_quality",
+      "tasty"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "local is lekker",
+    "meaning": "slogan celebrating local culture/products",
+    "category": [
+      "conversation_marker"
+    ],
+    "variants": [],
+    "notes": "Popular SA slogan",
+    "style_tags": [
+      "food_philosophy",
+      "local_pride"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "maak 'n plan",
+    "variants": [
+      "maak n plan"
+    ],
+    "category": [
+      "resourcefulness",
+      "resourcefulness"
+    ],
+    "meaning": "Make a plan / be resourceful.",
+    "usage": "We'll maak 'n plan.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "maak gou",
+    "variants": [],
+    "category": [
+      "action_instruction"
+    ],
+    "meaning": "Hurry up.",
+    "usage": "Maak gou, we're late.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "madiba",
+    "meaning": "affectionate name for Nelson Mandela",
+    "category": [
+      "individual_reference"
+    ],
+    "variants": [],
+    "notes": "From Mandela\u2019s Xhosa clan name",
+    "style_tags": [
+      "historical_figure",
+      "mandela"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "mafikizolo",
+    "meaning": "latecomer; also name of famous SA music group",
+    "category": [
+      "informal_language",
+      "music_genre"
+    ],
+    "variants": [],
+    "notes": "Nguni origin",
+    "style_tags": [
+      "music_artist",
+      "kwaito"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "marabi",
+    "meaning": "early SA jazz style, piano-driven",
+    "category": [
+      "music_genre"
+    ],
+    "variants": [],
+    "notes": "1920s\u201330s urban SA music",
+    "style_tags": [
+      "music_genre",
+      "jazz"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "maskandi",
+    "meaning": "Zulu folk music style, often guitar-driven",
+    "category": [
+      "music_genre"
+    ],
+    "variants": [],
+    "notes": "Associated with working-class migrants",
+    "style_tags": [
+      "music_genre",
+      "folk"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "mbaqanga",
+    "meaning": "South African jazz-influenced township music",
+    "category": [
+      "music_genre"
+    ],
+    "variants": [],
+    "notes": "Popular in 1960s\u201380s",
+    "style_tags": [
+      "music_genre",
+      "jazz"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "mielie",
+    "meaning": "maize; corn (South African term)",
+    "category": [
+      "traditional_food",
+      "farming_activity"
+    ],
+    "variants": [
+      "mealies"
+    ],
+    "notes": "Afrikaans origin",
+    "style_tags": [
+      "agricultural",
+      "corn"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "muti",
+    "meaning": "traditional medicine",
+    "category": [
+      "health_wellness"
+    ],
+    "variants": [],
+    "notes": "Zulu origin; can be neutral or pejorative depending on context",
+    "style_tags": [
+      "traditional_medicine",
+      "herbal"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "mzansi",
+    "variants": [],
+    "category": [
+      "cultural_identity"
+    ],
+    "meaning": "Colloquial name for South Africa.",
+    "usage": "Proudly Mzansi.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "naai",
+    "variants": [
+      "naaier"
+    ],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "Vulgar sexual verb; also an insult for a person.",
+    "usage": "Daai ou is 'n naaier.",
+    "style_tags": [
+      "slang",
+      "vulgar"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "nooit",
+    "variants": [],
+    "category": [
+      "discourse_marker",
+      "negative_expression"
+    ],
+    "meaning": "Strong 'no way'/'never'.",
+    "usage": "Nooit, that can\u2019t be true.",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "now-now",
+    "variants": [
+      "now now",
+      "nownow"
+    ],
+    "category": [
+      "temporal_reference",
+      "temporal_reference"
+    ],
+    "meaning": "Very soon (sooner than 'just now').",
+    "usage": "I'm coming now-now.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "ok sharp",
+    "variants": [
+      "okay sharp"
+    ],
+    "category": [
+      "social_interaction",
+      "emotional_expression"
+    ],
+    "meaning": "Affirmation/sign\u2011off variant.",
+    "usage": "Okay sharp, thanks.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "oke",
+    "variants": [],
+    "category": [
+      "person_reference"
+    ],
+    "meaning": "Guy/bloke (neutral).",
+    "usage": "The oke was helpful.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "padkos",
+    "meaning": "food packed for a journey; road snacks",
+    "category": [
+      "traditional_food",
+      "transportation"
+    ],
+    "variants": [],
+    "notes": "Afrikaans compound 'road food'",
+    "style_tags": [
+      "travel_food",
+      "snack"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "pap",
+    "meaning": "maize porridge; staple food",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [
+      "phutu",
+      "uphuthu",
+      "sadza (regional)"
+    ],
+    "notes": "Consistency varies: crumbly to smooth",
+    "style_tags": [
+      "traditional_food",
+      "porridge"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "pasop",
+    "variants": [],
+    "category": [
+      "action_instruction",
+      "action_instruction"
+    ],
+    "meaning": "Watch out; beware.",
+    "usage": "Pasop for the dog.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "phanda",
+    "variants": [],
+    "category": [
+      "economic_activity",
+      "economic_activity"
+    ],
+    "meaning": "To hustle/work hard for money.",
+    "usage": "We phanda every day.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "phusha",
+    "variants": [],
+    "category": [
+      "action_instruction",
+      "movement"
+    ],
+    "meaning": "Push.",
+    "usage": "Phusha the trolley.",
+    "style_tags": [
+      "common"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "pitori",
+    "variants": [],
+    "category": [
+      "place_geography"
+    ],
+    "meaning": "Pretoria (slang nickname).",
+    "usage": "We\u2019re in Pitori this weekend.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "plaas",
+    "meaning": "farm (Afrikaans)",
+    "category": [
+      "farming_activity"
+    ],
+    "variants": [],
+    "notes": "SA English borrow",
+    "style_tags": [
+      "geography",
+      "farm"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "poes",
+    "variants": [
+      "poesie",
+      "poeskop"
+    ],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "Extremely vulgar insult used to attack someone.",
+    "usage": "Jy's 'n poes, bru.",
+    "style_tags": [
+      "slang",
+      "vulgar"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "proteas",
+    "meaning": "nickname for national cricket team",
+    "category": [
+      "sports_reference"
+    ],
+    "variants": [],
+    "notes": "From national flower",
+    "style_tags": [
+      "sports_team",
+      "cricket"
+    ],
+    "topic": "Sports & Recreation"
+  },
+  {
+    "term": "pta",
+    "variants": [],
+    "category": [
+      "place_geography"
+    ],
+    "meaning": "Pretoria abbreviation in slang.",
+    "usage": "Heading to PTA now-now.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "randlord",
+    "meaning": "wealthy magnate from the Johannesburg gold rush era",
+    "category": [
+      "cultural_identity",
+      "economic_activity"
+    ],
+    "variants": [],
+    "notes": "Term from late 19th century",
+    "style_tags": [
+      "historical_figure",
+      "mining_magnate"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "robot",
+    "meaning": "traffic light",
+    "category": [
+      "transportation"
+    ],
+    "variants": [],
+    "notes": "SA English usage",
+    "style_tags": [
+      "traffic_light",
+      "transport"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "rooinek",
+    "meaning": "old slang for English-speakers (esp. soldiers)",
+    "category": [
+      "informal_language",
+      "negative_expression"
+    ],
+    "variants": [],
+    "notes": "From sunburned necks of British soldiers",
+    "style_tags": [
+      "ethnic_reference",
+      "english_person"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "sangoma",
+    "meaning": "traditional healer/diviner in Nguni cultures",
+    "category": [
+      "cultural_identity",
+      "health_wellness"
+    ],
+    "variants": [],
+    "notes": "Distinct from 'inyanga' (herbalist)",
+    "style_tags": [
+      "traditional_healer",
+      "spiritual"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "sarmie",
+    "meaning": "sandwich",
+    "category": [
+      "traditional_food"
+    ],
+    "variants": [
+      "sammie"
+    ],
+    "notes": "Common SA slang",
+    "style_tags": [
+      "food",
+      "sandwich"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "shame man",
+    "variants": [],
+    "category": [
+      "emotional_expression",
+      "relationship_term"
+    ],
+    "meaning": "Pity or affectionate sympathy.",
+    "usage": "Shame man, you tried.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "shapa",
+    "variants": [],
+    "category": [
+      "motivation",
+      "music_genre"
+    ],
+    "meaning": "Cheer-on shout ('hit it!').",
+    "usage": "Shapa! Do it!",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "sharp-sharp",
+    "variants": [
+      "shap",
+      "sharp"
+    ],
+    "category": [
+      "social_interaction",
+      "discourse_marker"
+    ],
+    "meaning": "All good/okay/cool; greeting or sign\u2011off.",
+    "usage": "Sharp-sharp, see you.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "shebeen",
+    "variants": [
+      "shebeens"
+    ],
+    "category": [
+      "entertainment",
+      "economic_activity"
+    ],
+    "meaning": "Informal tavern/pub.",
+    "usage": "Meet at the shebeen.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Music & Entertainment"
+  },
+  {
+    "term": "shem",
+    "variants": [
+      "ag shame",
+      "shame"
+    ],
+    "category": [
+      "emotional_expression",
+      "relationship_term"
+    ],
+    "meaning": "Pity/fondness/cuteness particle.",
+    "usage": "Ag shem, the puppy!",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "shisanyama",
+    "variants": [
+      "shisa nyama"
+    ],
+    "category": [
+      "traditional_food",
+      "place_geography"
+    ],
+    "meaning": "Township grill/barbecue spot.",
+    "usage": "Let's hit the shisanyama.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Health & Traditional"
+  },
+  {
+    "term": "shongololo",
+    "meaning": "millipede",
+    "category": [
+      "natural_environment"
+    ],
+    "variants": [],
+    "notes": "Word often used in children\u2019s songs and stories",
+    "style_tags": [
+      "natural_environment",
+      "insect",
+      "millipede"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "sies",
+    "meaning": "exclamation of disgust or disapproval",
+    "category": [
+      "emotional_expression"
+    ],
+    "variants": [
+      "sis"
+    ],
+    "notes": "Common across SA languages via Afrikaans/Nguni contact",
+    "style_tags": [
+      "disgust",
+      "expression"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "sjoe",
+    "variants": [
+      "sho"
+    ],
+    "category": [
+      "discourse_marker"
+    ],
+    "meaning": "Relief/surprise.",
+    "usage": "Sjoe, we made it.",
+    "style_tags": [
+      "informal"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "skaba madula",
+    "variants": [],
+    "category": [
+      "motivation",
+      "motivation"
+    ],
+    "meaning": "Don't be scared; be bold (street slogan).",
+    "usage": "Skaba madula, reya ko pele.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "skedonk",
+    "meaning": "old, battered car",
+    "category": [
+      "informal_language",
+      "transportation"
+    ],
+    "variants": [],
+    "notes": "SA slang; humorous tone",
+    "style_tags": [
+      "condition",
+      "broken"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "skeem",
+    "variants": [],
+    "category": [
+      "planning",
+      "informal_language"
+    ],
+    "meaning": "Think/assume/plot (street usage).",
+    "usage": "I skeem you\u2019re right.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "skelm",
+    "variants": [],
+    "category": [
+      "person_reference",
+      "suspicious"
+    ],
+    "meaning": "Shady person; sneaky.",
+    "usage": "Hy\u2019s 'n skelm, pasop.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "smaak",
+    "variants": [],
+    "category": [
+      "preference"
+    ],
+    "meaning": "To like/enjoy/desire.",
+    "usage": "I smaak that track.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "sophiatown",
+    "meaning": "historic suburb of Johannesburg, cultural hub in 1940s\u201350s",
+    "category": [
+      "place_geography",
+      "cultural_identity"
+    ],
+    "variants": [],
+    "notes": "Bulldozed under apartheid",
+    "style_tags": [
+      "historical_place",
+      "township"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "soutie",
+    "meaning": "derogatory nickname for English-speaking South Africans",
+    "category": [
+      "informal_language",
+      "negative_expression"
+    ],
+    "variants": [],
+    "notes": "From Afrikaans, meaning 'salty one'; sensitive",
+    "style_tags": [
+      "ethnic_reference",
+      "english_person"
+    ],
+    "topic": "Language & Expression"
+  },
+  {
+    "term": "spane",
+    "variants": [],
+    "category": [
+      "economic_activity",
+      "economic_activity"
+    ],
+    "meaning": "Work/put in effort (slang).",
+    "usage": "We spane on this project.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "spaza",
+    "variants": [
+      "spaza shop"
+    ],
+    "category": [
+      "economic_activity",
+      "economic_activity"
+    ],
+    "meaning": "Informal township convenience shop.",
+    "usage": "Get bread at the spaza.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "spoor",
+    "meaning": "animal track or scent trail",
+    "category": [
+      "natural_environment",
+      "monitoring"
+    ],
+    "variants": [],
+    "notes": "Afrikaans origin; also verb 'to track'",
+    "style_tags": [
+      "geography",
+      "track"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "stoep",
+    "meaning": "veranda; porch at the front of a house",
+    "category": [
+      "place_geography"
+    ],
+    "variants": [],
+    "notes": "Afrikaans origin; SA English",
+    "style_tags": [
+      "housing",
+      "veranda"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "struesbob",
+    "variants": [],
+    "category": [
+      "commitment",
+      "commitment"
+    ],
+    "meaning": "I swear/for real (from 'as true as Bob').",
+    "usage": "Struesbob, I was there.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "stukkie",
+    "variants": [],
+    "category": [
+      "person_reference",
+      "relationship_term"
+    ],
+    "meaning": "Girlfriend/partner (colloq., dated).",
+    "usage": "Ek en my stukkie went out.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "notes": "Dated/regionally sensitive.",
+    "topic": "Identity & People"
+  },
+  {
+    "term": "takkies",
+    "meaning": "sneakers; athletic shoes",
+    "category": [
+      "fashion_style"
+    ],
+    "variants": [
+      "tekkies"
+    ],
+    "notes": "SA English; regional spelling variants",
+    "style_tags": [
+      "footwear",
+      "sneakers"
+    ],
+    "topic": "Fashion & Lifestyle"
+  },
+  {
+    "term": "tjaila",
+    "meaning": "to knock off work or finish for the day",
+    "category": [
+      "economic_activity"
+    ],
+    "variants": [],
+    "notes": "Derived from isiZulu/tsotsitaal",
+    "style_tags": [
+      "action",
+      "leave"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "tjommie",
+    "meaning": "close friend or buddy",
+    "category": [
+      "relationship_term"
+    ],
+    "variants": [
+      "chommie"
+    ],
+    "notes": "Common in Afrikaans and township slang",
+    "style_tags": [
+      "friendship",
+      "mate"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "tjop",
+    "variants": [],
+    "category": [
+      "negative_expression",
+      "intensity_level"
+    ],
+    "meaning": "Mild insult (idiot).",
+    "usage": "Don't be a tjop.",
+    "style_tags": [
+      "traditional_food",
+      "meat"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "tokoloshe",
+    "meaning": "mythical dwarf-like creature in Nguni folklore",
+    "category": [
+      "cultural_identity"
+    ],
+    "variants": [
+      "tokolosh",
+      "tikoloshe"
+    ],
+    "notes": "Said to cause mischief or harm",
+    "style_tags": [
+      "folklore",
+      "spirit"
+    ],
+    "topic": "Identity & People"
+  },
+  {
+    "term": "township",
+    "topic": "Place & Location",
+    "category": [
+      "place"
+    ],
+    "description": "Township areas"
+  },
+  {
+    "term": "tsek",
+    "variants": [
+      "tshek"
+    ],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "Short, blunt 'go away'.",
+    "usage": "Tsek, broer.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "tsotsi",
+    "meaning": "a gangster or street thug; also township criminal subculture",
+    "category": [
+      "illegal_activity",
+      "informal_language"
+    ],
+    "variants": [
+      "tsotsitaal (lingo)"
+    ],
+    "notes": "Used in SA English; also film title 'Tsotsi'",
+    "style_tags": [
+      "criminal",
+      "gangster"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "ubuntu",
+    "topic": "Philosophy & Values",
+    "category": [
+      "philosophy"
+    ],
+    "description": "Ubuntu philosophy"
+  },
+  {
+    "term": "vala",
+    "variants": [],
+    "category": [
+      "action_instruction",
+      "proximity"
+    ],
+    "meaning": "Close/shut it.",
+    "usage": "Vala the door.",
+    "style_tags": [
+      "common"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "veld",
+    "meaning": "open uncultivated country; grassland",
+    "category": [
+      "place_geography"
+    ],
+    "variants": [],
+    "notes": "Afrikaans origin",
+    "style_tags": [
+      "geography",
+      "grassland"
+    ],
+    "topic": "Place & Location"
+  },
+  {
+    "term": "veldskoen",
+    "meaning": "sturdy leather walking shoe",
+    "category": [
+      "fashion_style",
+      "fashion_style"
+    ],
+    "variants": [
+      "vellies",
+      "veldskoens"
+    ],
+    "notes": "Afrikaans 'field shoe'",
+    "style_tags": [
+      "footwear",
+      "shoes"
+    ],
+    "topic": "Fashion & Lifestyle"
+  },
+  {
+    "term": "veldskool",
+    "meaning": "outdoor school in nature",
+    "category": [
+      "learning",
+      "place_geography"
+    ],
+    "variants": [
+      "veld school"
+    ],
+    "notes": "SA usage",
+    "style_tags": [
+      "education",
+      "bush_school"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "voetsek",
+    "variants": [],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "Dismissive 'go away'/'get lost'.",
+    "usage": "Voetsek with that nonsense.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "voetsek groot",
+    "variants": [],
+    "category": [
+      "negative_expression",
+      "negative_expression"
+    ],
+    "meaning": "Extra-strong get lost.",
+    "usage": "Voetsek groot, wena!",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Conflict & Confrontation"
+  },
+  {
+    "term": "vula",
+    "variants": [],
+    "category": [
+      "action_instruction",
+      "accessibility"
+    ],
+    "meaning": "Open it.",
+    "usage": "Vula the window.",
+    "style_tags": [
+      "common"
+    ],
+    "topic": "Economic & Work"
+  },
+  {
+    "term": "vuvuzela",
+    "meaning": "long plastic stadium horn producing a loud monotone",
+    "category": [
+      "sports_reference",
+      "physical_object"
+    ],
+    "variants": [],
+    "notes": "Famous from 2010 FIFA World Cup",
+    "style_tags": [
+      "cultural_instrument",
+      "horn"
+    ],
+    "topic": "Sports & Recreation"
+  },
+  {
+    "term": "we move",
+    "variants": [],
+    "category": [
+      "digital_communication",
+      "resourcefulness"
+    ],
+    "meaning": "Move on/keep going.",
+    "usage": "We lost, but we move.",
+    "style_tags": [
+      "internet"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "ya ne",
+    "variants": [
+      "ya, ne"
+    ],
+    "category": [
+      "conversation_marker"
+    ],
+    "meaning": "Filler/softener ('yeah, right').",
+    "usage": "Ya ne, that's life.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "yah neh",
+    "variants": [],
+    "category": [
+      "conversation_marker",
+      "emotional_expression"
+    ],
+    "meaning": "Acceptance/shrug vibe.",
+    "usage": "Yah neh, it be like that.",
+    "style_tags": [
+      "colloquial"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "yoh guys",
+    "variants": [],
+    "category": [
+      "digital_communication",
+      "cultural_identity"
+    ],
+    "meaning": "Group address + shock.",
+    "usage": "Yoh guys, that video!",
+    "style_tags": [
+      "internet"
+    ],
+    "topic": "Social & Greeting"
+  },
+  {
+    "term": "zamalek",
+    "variants": [],
+    "category": [
+      "beverage",
+      "person_reference"
+    ],
+    "meaning": "Nickname for Carling Black Label beer.",
+    "usage": "Grab a Zamalek.",
+    "style_tags": [
+      "slang"
+    ],
+    "topic": "Fashion & Lifestyle"
+  },
+  {
+    "term": "joh",
+    "topic": "Social & Greeting",
+    "category": [
+      "greeting"
+    ],
+    "meaning": "Hey/hello"
+  },
+  {
+    "term": "sport",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports_reference"
+    ],
+    "meaning": "Sport"
+  },
+  {
+    "term": "music",
+    "topic": "Music & Entertainment",
+    "category": [
+      "music_reference"
+    ],
+    "meaning": "Music"
+  },
+  {
+    "term": "kyk",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Look"
+  },
+  {
+    "term": "nyoka",
+    "topic": "Identity & People",
+    "category": [
+      "name"
+    ],
+    "meaning": "Name"
+  },
+  {
+    "term": "goed",
+    "topic": "Social & Greeting",
+    "category": [
+      "expression"
+    ],
+    "description": "Good (Afrikaans expression)"
+  },
+  {
+    "term": "klinkt",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Sounds"
+  },
+  {
+    "term": "heerlijk",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Delicious/lovely"
+  },
+  {
+    "term": "hes",
+    "topic": "Social & Greeting",
+    "category": [
+      "pronoun"
+    ],
+    "meaning": "He is (contraction)"
+  },
+  {
+    "term": "whiteboy",
+    "topic": "Identity & People",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Derogatory term"
+  },
+  {
+    "term": "racist",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Racist"
+  },
+  {
+    "term": "racism",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Racism"
+  },
+  {
+    "term": "hate",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Hate"
+  },
+  {
+    "term": "stupid",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Stupid"
+  },
+  {
+    "term": "idiot",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Idiot"
+  },
+  {
+    "term": "fool",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "negative_expression"
+    ],
+    "meaning": "Fool"
+  },
+  {
+    "term": "love",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Love"
+  },
+  {
+    "term": "loves",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Loves"
+  },
+  {
+    "term": "like",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Like"
+  },
+  {
+    "term": "good",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Good"
+  },
+  {
+    "term": "great",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Great"
+  },
+  {
+    "term": "nice",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Nice"
+  },
+  {
+    "term": "beautiful",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Beautiful"
+  },
+  {
+    "term": "amazing",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Amazing"
+  },
+  {
+    "term": "incredible",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Incredible"
+  },
+  {
+    "term": "fantastic",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Fantastic"
+  },
+  {
+    "term": "know",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Know"
+  },
+  {
+    "term": "think",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Think"
+  },
+  {
+    "term": "see",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "See"
+  },
+  {
+    "term": "need",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Need"
+  },
+  {
+    "term": "feel",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Feel"
+  },
+  {
+    "term": "make",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Make"
+  },
+  {
+    "term": "take",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Take"
+  },
+  {
+    "term": "give",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Give"
+  },
+  {
+    "term": "come",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Come"
+  },
+  {
+    "term": "get",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Get"
+  },
+  {
+    "term": "say",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Say"
+  },
+  {
+    "term": "tell",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Tell"
+  },
+  {
+    "term": "ask",
+    "topic": "Social & Greeting",
+    "category": [
+      "verb"
+    ],
+    "meaning": "Ask"
+  },
+  {
+    "term": "work",
+    "topic": "Economic & Work",
+    "category": [
+      "work_reference"
+    ],
+    "meaning": "Work"
+  },
+  {
+    "term": "job",
+    "topic": "Economic & Work",
+    "category": [
+      "work_reference"
+    ],
+    "meaning": "Job"
+  },
+  {
+    "term": "money",
+    "topic": "Economic & Work",
+    "category": [
+      "economic_reference"
+    ],
+    "meaning": "Money"
+  },
+  {
+    "term": "time",
+    "topic": "Social & Greeting",
+    "category": [
+      "temporal_reference"
+    ],
+    "meaning": "Time"
+  },
+  {
+    "term": "day",
+    "topic": "Social & Greeting",
+    "category": [
+      "temporal_reference"
+    ],
+    "meaning": "Day"
+  },
+  {
+    "term": "night",
+    "topic": "Social & Greeting",
+    "category": [
+      "temporal_reference"
+    ],
+    "meaning": "Night"
+  },
+  {
+    "term": "year",
+    "topic": "Social & Greeting",
+    "category": [
+      "temporal_reference"
+    ],
+    "meaning": "Year"
+  },
+  {
+    "term": "life",
+    "topic": "Social & Greeting",
+    "category": [
+      "abstract_concept"
+    ],
+    "meaning": "Life"
+  },
+  {
+    "term": "woman",
+    "topic": "Social & Greeting",
+    "category": [
+      "social_reference"
+    ],
+    "meaning": "Woman"
+  },
+  {
+    "term": "child",
+    "topic": "Social & Greeting",
+    "category": [
+      "social_reference"
+    ],
+    "meaning": "Child"
+  },
+  {
+    "term": "family",
+    "topic": "Social & Greeting",
+    "category": [
+      "social_reference"
+    ],
+    "meaning": "Family"
+  },
+  {
+    "term": "friend",
+    "topic": "Social & Greeting",
+    "category": [
+      "social_reference"
+    ],
+    "meaning": "Friend"
+  },
+  {
+    "term": "home",
+    "topic": "Place & Location",
+    "category": [
+      "place_reference"
+    ],
+    "meaning": "Home"
+  },
+  {
+    "term": "house",
+    "topic": "Place & Location",
+    "category": [
+      "place_reference"
+    ],
+    "meaning": "House"
+  },
+  {
+    "term": "school",
+    "topic": "Economic & Work",
+    "category": [
+      "institution_reference"
+    ],
+    "meaning": "School"
+  },
+  {
+    "term": "church",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Church"
+  },
+  {
+    "term": "god",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "God"
+  },
+  {
+    "term": "jesus",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Jesus"
+  },
+  {
+    "term": "christ",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Christ"
+  },
+  {
+    "term": "prayer",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Prayer"
+  },
+  {
+    "term": "faith",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Faith"
+  },
+  {
+    "term": "bless",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Bless"
+  },
+  {
+    "term": "blessed",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Blessed"
+  },
+  {
+    "term": "amen",
+    "topic": "Philosophy & Values",
+    "category": [
+      "religious_reference"
+    ],
+    "meaning": "Amen"
+  },
+  {
+    "term": "boetie",
+    "topic": "Social & Greeting",
+    "category": [
+      "greeting"
+    ],
+    "meaning": "Little brother/friend"
+  },
+  {
+    "term": "chomie",
+    "topic": "Social & Greeting",
+    "category": [
+      "greeting"
+    ],
+    "meaning": "Friend"
+  },
+  {
+    "term": "laatie",
+    "topic": "Social & Greeting",
+    "category": [
+      "greeting"
+    ],
+    "meaning": "Young person"
+  },
+  {
+    "term": "k@k",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult"
+    ],
+    "meaning": "Shit/nonsense"
+  },
+  {
+    "term": "k*k",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult"
+    ],
+    "meaning": "Shit/nonsense"
+  },
+  {
+    "term": "poesie",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult"
+    ],
+    "meaning": "Cunt/bitch"
+  },
+  {
+    "term": "poeskop",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult"
+    ],
+    "meaning": "Cunt head"
+  },
+  {
+    "term": "tsotsitaal",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "language"
+    ],
+    "meaning": "Gangster language"
+  },
+  {
+    "term": "tshek",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult"
+    ],
+    "meaning": "Fuck off"
+  },
+  {
+    "term": "maak n plan",
+    "topic": "Economic & Work",
+    "category": [
+      "expression"
+    ],
+    "meaning": "Make a plan"
+  },
+  {
+    "term": "spaza shop",
+    "topic": "Economic & Work",
+    "category": [
+      "place"
+    ],
+    "meaning": "Informal shop"
+  },
+  {
+    "term": "veld school",
+    "topic": "Economic & Work",
+    "category": [
+      "place"
+    ],
+    "meaning": "Bush school"
+  },
+  {
+    "term": "tekkies",
+    "topic": "Fashion & Lifestyle",
+    "category": [
+      "clothing"
+    ],
+    "meaning": "Sneakers/trainers"
+  },
+  {
+    "term": "vellies",
+    "topic": "Fashion & Lifestyle",
+    "category": [
+      "clothing"
+    ],
+    "meaning": "Traditional leather shoes"
+  },
+  {
+    "term": "veldskoens",
+    "topic": "Fashion & Lifestyle",
+    "category": [
+      "clothing"
+    ],
+    "meaning": "Traditional leather shoes"
+  },
+  {
+    "term": "doppie (spent cartridge)",
+    "topic": "Language & Expression",
+    "category": [
+      "expression"
+    ],
+    "meaning": "Spent cartridge"
+  },
+  {
+    "term": "now now",
+    "topic": "Language & Expression",
+    "category": [
+      "expression"
+    ],
+    "meaning": "Soon"
+  },
+  {
+    "term": "nownow",
+    "topic": "Language & Expression",
+    "category": [
+      "expression"
+    ],
+    "meaning": "Soon"
+  },
+  {
+    "term": "just-now",
+    "topic": "Language & Expression",
+    "category": [
+      "expression"
+    ],
+    "meaning": "Soon"
+  },
+  {
+    "term": "white",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "meaning": "White people"
+  },
+  {
+    "term": "color",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "meaning": "Color/race"
+  },
+  {
+    "term": "race",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "meaning": "Race"
+  },
+  {
+    "term": "youngman",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Young man"
+  },
+  {
+    "term": "young",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Young person"
+  },
+  {
+    "term": "lad",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Lad/boy"
+  },
+  {
+    "term": "leader",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Leader"
+  },
+  {
+    "term": "person",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Person"
+  },
+  {
+    "term": "boy",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Boy"
+  },
+  {
+    "term": "girl",
+    "topic": "Identity & People",
+    "category": [
+      "person"
+    ],
+    "meaning": "Girl"
+  },
+  {
+    "term": "daai",
+    "topic": "Social & Greeting",
+    "category": [
+      "expression"
+    ],
+    "description": "Afrikaans expression meaning that/those"
+  },
+  {
+    "term": "jordaan",
+    "topic": "Place & Location",
+    "category": [
+      "place"
+    ],
+    "description": "Neighborhood in Amsterdam"
+  },
+  {
+    "term": "leander",
+    "topic": "Identity & People",
+    "category": [
+      "name"
+    ],
+    "description": "Personal name"
+  },
+  {
+    "term": "schalk",
+    "topic": "Identity & People",
+    "category": [
+      "name"
+    ],
+    "description": "Personal name"
+  },
+  {
+    "term": "europeans",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "People from Europe"
+  },
+  {
+    "term": "ethnically",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "Relating to ethnicity"
+  },
+  {
+    "term": "truthful",
+    "topic": "Philosophy & Values",
+    "category": [
+      "philosophy"
+    ],
+    "description": "Being truthful"
+  },
+  {
+    "term": "nederlandse/nederlander/nederlands/dutch",
+    "topic": "Identity & People",
+    "category": [
+      "nationality",
+      "language"
+    ],
+    "description": "Dutch people and language"
+  },
+  {
+    "term": "broekpolder",
+    "topic": "Place & Location",
+    "category": [
+      "place"
+    ],
+    "description": "Place name"
+  },
+  {
+    "term": "afrikaans/afrikaanse/afrikaan/afrikaaner/afrikaner",
+    "topic": "Identity & People",
+    "category": [
+      "language_reference"
+    ],
+    "meaning": "Afrikaans language"
+  },
+  {
+    "term": "brother/broer/broere",
+    "topic": "Identity & People",
+    "category": [
+      "family"
+    ],
+    "meaning": "Brother"
+  },
+  {
+    "term": "thank/thanks/dankie/dankies",
+    "topic": "Social & Greeting",
+    "category": [
+      "greeting"
+    ],
+    "description": "Plural of thank you"
+  },
+  {
+    "term": "wow/woww/wowowo/wowwww",
+    "topic": "Social & Greeting",
+    "category": [
+      "positive_expression"
+    ],
+    "meaning": "Wow"
+  },
+  {
+    "term": "springbok/springboks",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports",
+      "rugby"
+    ],
+    "description": "South African rugby team"
+  },
+  {
+    "term": "johan",
+    "topic": "Identity & People",
+    "category": [
+      "name"
+    ],
+    "description": "Personal name"
+  },
+  {
+    "term": "grootseun",
+    "topic": "Identity & People",
+    "category": [
+      "family"
+    ],
+    "description": "Grandson"
+  },
+  {
+    "term": "goeie",
+    "topic": "Social & Greeting",
+    "category": [
+      "expression"
+    ],
+    "description": "Good (Afrikaans expression)"
+  },
+  {
+    "term": "hoor",
+    "topic": "Social & Greeting",
+    "category": [
+      "expression"
+    ],
+    "description": "Hear (Afrikaans expression)"
+  },
+  {
+    "term": "voice/singer/zingen/sings/vocals",
+    "topic": "Music & Entertainment",
+    "category": [
+      "music"
+    ],
+    "description": "Singing and vocal terms"
+  },
+  {
+    "term": "mooiste/mooi/pretty/beautifull",
+    "topic": "Music & Entertainment",
+    "category": [
+      "aesthetic"
+    ],
+    "description": "Beauty and aesthetic terms"
+  },
+  {
+    "term": "mercury/freddy/jackson/michael/freddie",
+    "topic": "Music & Entertainment",
+    "category": [
+      "artist"
+    ],
+    "description": "Music artists"
+  },
+  {
+    "term": "christianity/christians/christian/bible",
+    "topic": "Identity & People",
+    "category": [
+      "religion"
+    ],
+    "description": "Christianity and religious terms"
+  },
+  {
+    "term": "atheists/atheist/atheistic/atheism",
+    "topic": "Philosophy & Values",
+    "category": [
+      "philosophy"
+    ],
+    "description": "Atheism and philosophical terms"
+  },
+  {
+    "term": "truth/liar/lying/telling/honest",
+    "topic": "Philosophy & Values",
+    "category": [
+      "philosophy"
+    ],
+    "description": "Truth and honesty terms"
+  },
+  {
+    "term": "facts/fact/information/reality/realities/evidence",
+    "topic": "Philosophy & Values",
+    "category": [
+      "philosophy"
+    ],
+    "description": "Factual and reality terms"
+  },
+  {
+    "term": "hitting/discipline/abusive/hit/abuse/abusing/violence/punching",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "violence"
+    ],
+    "description": "Violence and abuse terms"
+  },
+  {
+    "term": "fight/fighter/boxing/boxer/boxers/martial",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "combat"
+    ],
+    "description": "Combat and fighting terms"
+  },
+  {
+    "term": "president/future/next/leaders/will/general",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Political leadership terms"
+  },
+  {
+    "term": "political/politics/politician/parties/party/politicians/republican",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Political system terms"
+  },
+  {
+    "term": "ramaphosa/ramapoza/trump/denounce/ramophosa/mugabe",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Political figures"
+  },
+  {
+    "term": "trash/sewage/cleaning/dirty/municipalities/filthy/dumping/municipal",
+    "topic": "Health & Traditional",
+    "category": [
+      "health"
+    ],
+    "description": "Public health and sanitation terms"
+  },
+  {
+    "term": "medaljes/medalje/medal/gewen",
+    "topic": "Health & Traditional",
+    "category": [
+      "achievement"
+    ],
+    "description": "Achievement and recognition terms"
+  },
+  {
+    "term": "hahaah/hahahaha",
+    "topic": "Social & Greeting",
+    "category": [
+      "expression"
+    ],
+    "description": "Laughter expressions"
+  },
+  {
+    "term": "serious/really/dude/ok/exactly/question",
+    "topic": "Social & Greeting",
+    "category": [
+      "expression"
+    ],
+    "description": "Social expressions"
+  },
+  {
+    "term": "hoedervleis/hoendervleis/meat/hondervleis/beef/chicken",
+    "topic": "Food & Cuisine",
+    "category": [
+      "food"
+    ],
+    "description": "Meat and protein terms"
+  },
+  {
+    "term": "leuk",
+    "topic": "Music & Entertainment",
+    "category": [
+      "aesthetic"
+    ],
+    "description": "Nice/pleasant (Afrikaans)"
+  },
+  {
+    "term": "apartheid/apartheid-era/post-apartheid/pre-apartheid/anti-apartheid/pro-apartheid",
+    "topic": "Identity & People",
+    "category": [
+      "history",
+      "politics"
+    ],
+    "description": "Apartheid system and related terms"
+  },
+  {
+    "term": "african national congress/anc",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "African National Congress political party"
+  },
+  {
+    "term": "democratic alliance/da",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Democratic Alliance political party"
+  },
+  {
+    "term": "economic freedom fighters/eff",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Economic Freedom Fighters political party"
+  },
+  {
+    "term": "nelson mandela/mandela",
+    "topic": "Identity & People",
+    "category": [
+      "leader"
+    ],
+    "description": "Nelson Mandela"
+  },
+  {
+    "term": "de klerk",
+    "topic": "Identity & People",
+    "category": [
+      "leader"
+    ],
+    "description": "F.W. de Klerk"
+  },
+  {
+    "term": "zuma",
+    "topic": "Economic & Work",
+    "category": [
+      "leader"
+    ],
+    "description": "Jacob Zuma"
+  },
+  {
+    "term": "ramaphosa/ramapoza/ramophosa",
+    "topic": "Economic & Work",
+    "category": [
+      "leader"
+    ],
+    "description": "Cyril Ramaphosa"
+  },
+  {
+    "term": "afrikaner/afrikaners",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "Afrikaner people"
+  },
+  {
+    "term": "coloured",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "Coloured people"
+  },
+  {
+    "term": "indian",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "Indian South Africans"
+  },
+  {
+    "term": "black/bantu",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "Black South Africans"
+  },
+  {
+    "term": "boer/boere",
+    "topic": "Identity & People",
+    "category": [
+      "ethnicity"
+    ],
+    "description": "Boer people"
+  },
+  {
+    "term": "homeland/bantustan",
+    "topic": "Place & Location",
+    "category": [
+      "history"
+    ],
+    "description": "Apartheid homelands"
+  },
+  {
+    "term": "soweto",
+    "topic": "Place & Location",
+    "category": [
+      "place"
+    ],
+    "description": "Soweto township"
+  },
+  {
+    "term": "robben island",
+    "topic": "Place & Location",
+    "category": [
+      "history"
+    ],
+    "description": "Robben Island prison"
+  },
+  {
+    "term": "freedom charter",
+    "topic": "Identity & People",
+    "category": [
+      "history"
+    ],
+    "description": "Freedom Charter document"
+  },
+  {
+    "term": "treason trial",
+    "topic": "Identity & People",
+    "category": [
+      "history"
+    ],
+    "description": "Treason Trial"
+  },
+  {
+    "term": "sharpeville",
+    "topic": "Identity & People",
+    "category": [
+      "history"
+    ],
+    "description": "Sharpeville massacre"
+  },
+  {
+    "term": "soweto uprising/june 16/youth day",
+    "topic": "Identity & People",
+    "category": [
+      "history"
+    ],
+    "description": "Soweto uprising and Youth Day"
+  },
+  {
+    "term": "heritage day",
+    "topic": "Identity & People",
+    "category": [
+      "culture"
+    ],
+    "description": "Heritage Day holiday"
+  },
+  {
+    "term": "freedom day",
+    "topic": "Identity & People",
+    "category": [
+      "culture"
+    ],
+    "description": "Freedom Day holiday"
+  },
+  {
+    "term": "reconciliation day",
+    "topic": "Identity & People",
+    "category": [
+      "culture"
+    ],
+    "description": "Reconciliation Day holiday"
+  },
+  {
+    "term": "womens day",
+    "topic": "Identity & People",
+    "category": [
+      "culture"
+    ],
+    "description": "Women's Day holiday"
+  },
+  {
+    "term": "workers day",
+    "topic": "Identity & People",
+    "category": [
+      "culture"
+    ],
+    "description": "Workers' Day holiday"
+  },
+  {
+    "term": "rainbow nation",
+    "topic": "Identity & People",
+    "category": [
+      "identity"
+    ],
+    "description": "Rainbow Nation concept"
+  },
+  {
+    "term": "struggle",
+    "topic": "Identity & People",
+    "category": [
+      "history"
+    ],
+    "description": "The Struggle against apartheid"
+  },
+  {
+    "term": "liberation",
+    "topic": "Identity & People",
+    "category": [
+      "history"
+    ],
+    "description": "Liberation movement"
+  },
+  {
+    "term": "reconciliation",
+    "topic": "Philosophy & Values",
+    "category": [
+      "philosophy"
+    ],
+    "description": "Reconciliation process"
+  },
+  {
+    "term": "transformation",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Transformation process"
+  },
+  {
+    "term": "b-bbee",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Broad-Based Black Economic Empowerment"
+  },
+  {
+    "term": "land reform",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Land reform policy"
+  },
+  {
+    "term": "xenophobia",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "social"
+    ],
+    "description": "Xenophobia issues"
+  },
+  {
+    "term": "service delivery",
+    "topic": "Economic & Work",
+    "category": [
+      "politics"
+    ],
+    "description": "Service delivery issues"
+  },
+  {
+    "term": "solidariteit",
+    "topic": "Economic & Work",
+    "category": [
+      "union"
+    ],
+    "description": "Solidariteit trade union"
+  },
+  {
+    "term": "afriforum",
+    "topic": "Economic & Work",
+    "category": [
+      "organization"
+    ],
+    "description": "AfriForum organization"
+  },
+  {
+    "term": "cosatu",
+    "topic": "Economic & Work",
+    "category": [
+      "union"
+    ],
+    "description": "Congress of South African Trade Unions"
+  },
+  {
+    "term": "sactu",
+    "topic": "Economic & Work",
+    "category": [
+      "union"
+    ],
+    "description": "South African Congress of Trade Unions"
+  },
+  {
+    "term": "nactu",
+    "topic": "Economic & Work",
+    "category": [
+      "union"
+    ],
+    "description": "National Council of Trade Unions"
+  },
+  {
+    "term": "uif",
+    "topic": "Economic & Work",
+    "category": [
+      "organization"
+    ],
+    "description": "United Front"
+  },
+  {
+    "term": "agang",
+    "topic": "Economic & Work",
+    "category": [
+      "party"
+    ],
+    "description": "Agang SA political party"
+  },
+  {
+    "term": "ifp",
+    "topic": "Economic & Work",
+    "category": [
+      "party"
+    ],
+    "description": "Inkatha Freedom Party"
+  },
+  {
+    "term": "ff+",
+    "topic": "Economic & Work",
+    "category": [
+      "party"
+    ],
+    "description": "Freedom Front Plus"
+  },
+  {
+    "term": "acdp",
+    "topic": "Economic & Work",
+    "category": [
+      "party"
+    ],
+    "description": "African Christian Democratic Party"
+  },
+  {
+    "term": "cope",
+    "topic": "Economic & Work",
+    "category": [
+      "party"
+    ],
+    "description": "Congress of the People"
+  },
+  {
+    "term": "udm",
+    "topic": "Economic & Work",
+    "category": [
+      "party"
+    ],
+    "description": "United Democratic Movement"
+  },
+  {
+    "term": "outa",
+    "topic": "Economic & Work",
+    "category": [
+      "organization"
+    ],
+    "description": "Organisation Undoing Tax Abuse"
+  },
+  {
+    "term": "corruption watch",
+    "topic": "Economic & Work",
+    "category": [
+      "organization"
+    ],
+    "description": "Corruption Watch organization"
+  },
+  {
+    "term": "amnesty international",
+    "topic": "Identity & People",
+    "category": [
+      "organization"
+    ],
+    "description": "Amnesty International"
+  },
+  {
+    "term": "human rights watch",
+    "topic": "Identity & People",
+    "category": [
+      "organization"
+    ],
+    "description": "Human Rights Watch"
+  },
+  {
+    "term": "sasco",
+    "topic": "Identity & People",
+    "category": [
+      "student"
+    ],
+    "description": "South African Students Congress"
+  },
+  {
+    "term": "daso",
+    "topic": "Identity & People",
+    "category": [
+      "student"
+    ],
+    "description": "Democratic Alliance Student Organisation"
+  },
+  {
+    "term": "effsc",
+    "topic": "Identity & People",
+    "category": [
+      "student"
+    ],
+    "description": "Economic Freedom Fighters Student Command"
+  },
+  {
+    "term": "fees must fall",
+    "topic": "Identity & People",
+    "category": [
+      "movement"
+    ],
+    "description": "Fees Must Fall movement"
+  },
+  {
+    "term": "rhodes must fall",
+    "topic": "Identity & People",
+    "category": [
+      "movement"
+    ],
+    "description": "Rhodes Must Fall movement"
+  },
+  {
+    "term": "decolonisation",
+    "topic": "Identity & People",
+    "category": [
+      "movement"
+    ],
+    "description": "Decolonisation movement"
+  },
+  {
+    "term": "sacc",
+    "topic": "Identity & People",
+    "category": [
+      "religion"
+    ],
+    "description": "South African Council of Churches"
+  },
+  {
+    "term": "muslim judicial council",
+    "topic": "Identity & People",
+    "category": [
+      "religion"
+    ],
+    "description": "Muslim Judicial Council"
+  },
+  {
+    "term": "jewish board",
+    "topic": "Identity & People",
+    "category": [
+      "religion"
+    ],
+    "description": "South African Jewish Board of Deputies"
+  },
+  {
+    "term": "business unity sa",
+    "topic": "Economic & Work",
+    "category": [
+      "business"
+    ],
+    "description": "Business Unity South Africa"
+  },
+  {
+    "term": "black business council",
+    "topic": "Economic & Work",
+    "category": [
+      "business"
+    ],
+    "description": "Black Business Council"
+  },
+  {
+    "term": "sacci",
+    "topic": "Economic & Work",
+    "category": [
+      "business"
+    ],
+    "description": "South African Chamber of Commerce and Industry"
+  },
+  {
+    "term": "sabc",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "South African Broadcasting Corporation"
+  },
+  {
+    "term": "etv",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "e.tv television channel"
+  },
+  {
+    "term": "news24",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "News24 news website"
+  },
+  {
+    "term": "times live",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "TimesLIVE news website"
+  },
+  {
+    "term": "mail guardian",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "Mail & Guardian newspaper"
+  },
+  {
+    "term": "sunday times",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "Sunday Times newspaper"
+  },
+  {
+    "term": "city press",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "City Press newspaper"
+  },
+  {
+    "term": "beeld",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "Beeld newspaper"
+  },
+  {
+    "term": "volksblad",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "Volksblad newspaper"
+  },
+  {
+    "term": "rapport",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "Rapport newspaper"
+  },
+  {
+    "term": "sascoc",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports"
+    ],
+    "description": "South African Sports Confederation and Olympic Committee"
+  },
+  {
+    "term": "sarugby",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports"
+    ],
+    "description": "South African Rugby Union"
+  },
+  {
+    "term": "cricket sa",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports"
+    ],
+    "description": "Cricket South Africa"
+  },
+  {
+    "term": "safa",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports"
+    ],
+    "description": "South African Football Association"
+  },
+  {
+    "term": "sanef",
+    "topic": "Economic & Work",
+    "category": [
+      "media"
+    ],
+    "description": "South African National Editors Forum"
+  },
+  {
+    "term": "sahrc",
+    "topic": "Identity & People",
+    "category": [
+      "rights"
+    ],
+    "description": "South African Human Rights Commission"
+  },
+  {
+    "term": "public protector",
+    "topic": "Economic & Work",
+    "category": [
+      "institution"
+    ],
+    "description": "Public Protector institution"
+  },
+  {
+    "term": "constitutional court",
+    "topic": "Economic & Work",
+    "category": [
+      "institution"
+    ],
+    "description": "Constitutional Court"
+  },
+  {
+    "term": "supreme court",
+    "topic": "Economic & Work",
+    "category": [
+      "institution"
+    ],
+    "description": "Supreme Court of Appeal"
+  },
+  {
+    "term": "zuid afrika/suid afrika",
+    "topic": "Identity & People",
+    "category": [
+      "nationality"
+    ],
+    "description": "South Africa in Afrikaans"
+  },
+  {
+    "term": "food/cuisine/eating",
+    "topic": "Food & Cuisine",
+    "category": [
+      "food"
+    ],
+    "description": "General food terms"
+  },
+  {
+    "term": "africa/african",
+    "topic": "Identity & People",
+    "category": [
+      "nationality"
+    ],
+    "description": "African identity terms"
+  },
+  {
+    "term": "south africa/south african",
+    "topic": "Identity & People",
+    "category": [
+      "nationality"
+    ],
+    "description": "South African identity terms"
+  },
+  {
+    "term": "africa/african/africans",
+    "topic": "Identity & People",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Identity & Philosophy terms"
+  },
+  {
+    "term": "south africa/south african/south africans",
+    "topic": "Identity & People",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Identity & Philosophy terms"
+  },
+  {
+    "term": "anc/african national congress",
+    "topic": "Economic & Work",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Economic & Work terms"
+  },
+  {
+    "term": "da/democratic alliance",
+    "topic": "Economic & Work",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Economic & Work terms"
+  },
+  {
+    "term": "eff/economic freedom fighters",
+    "topic": "Economic & Work",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Economic & Work terms"
+  },
+  {
+    "term": "mooi/mooiste/pretty/beautifull",
+    "topic": "Music & Entertainment",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Music & Entertainment terms"
+  },
+  {
+    "term": "fight/fighting/fighter/fights",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Conflict & Confrontation terms"
+  },
+  {
+    "term": "boxing/boxer/boxers",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Conflict & Confrontation terms"
+  },
+  {
+    "term": "meat/beef/chicken/hoedervleis/hoendervleis/hondervleis",
+    "topic": "Food & Cuisine",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Food & Cuisine terms"
+  },
+  {
+    "term": "rugby/springbok/springboks",
+    "topic": "Sports & Recreation",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Sports & Recreation terms"
+  },
+  {
+    "term": "champ/champion/champions",
+    "topic": "Sports & Recreation",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Sports & Recreation terms"
+  },
+  {
+    "term": "hello/hi/hey/hallo",
+    "topic": "Social & Greeting",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Social & Greeting terms"
+  },
+  {
+    "term": "howzit/how are you",
+    "topic": "Social & Greeting",
+    "category": [
+      "consolidated"
+    ],
+    "description": "Consolidated Social & Greeting terms"
+  },
+  {
+    "term": "song/songs/liedtjie/liedjies/liedje/musiek/muziek/sing/singing/singer",
+    "topic": "Music & Entertainment",
+    "category": [
+      "music",
+      "entertainment"
+    ],
+    "description": "Song and music-related terms"
+  },
+  {
+    "term": "komen/kommin/kom/komm/komme",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "vulgar",
+      "insult"
+    ],
+    "description": "Vulgar Afrikaans insult"
+  },
+  {
+    "term": "doos",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "vulgar",
+      "insult"
+    ],
+    "description": "Vulgar Afrikaans insult"
+  },
+  {
+    "term": "poes",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "vulgar",
+      "insult"
+    ],
+    "description": "Vulgar Afrikaans insult"
+  },
+  {
+    "term": "bliksem",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "vulgar",
+      "insult"
+    ],
+    "description": "Vulgar Afrikaans insult"
+  },
+  {
+    "term": "sonbril/sunglasses",
+    "topic": "Fashion & Style",
+    "category": [
+      "fashion",
+      "accessories"
+    ],
+    "description": "Sunglasses and eyewear"
+  },
+  {
+    "term": "brille/glasses",
+    "topic": "Fashion & Style",
+    "category": [
+      "fashion",
+      "accessories"
+    ],
+    "description": "Eyeglasses and eyewear"
+  },
+  {
+    "term": "hangertjie/hanger",
+    "topic": "Fashion & Style",
+    "category": [
+      "fashion",
+      "accessories"
+    ],
+    "description": "Jewelry and accessories"
+  },
+  {
+    "term": "goat/goattt",
+    "topic": "Sports & Recreation",
+    "category": [
+      "sports",
+      "achievement"
+    ],
+    "description": "Greatest Of All Time - sports achievement term"
+  },
+  {
+    "term": "moer",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "vulgar",
+      "insult"
+    ],
+    "description": "Vulgar Afrikaans insult"
+  },
+  {
+    "term": "brakpan",
+    "topic": "Place & Location",
+    "category": [
+      "place",
+      "location"
+    ],
+    "description": "City in South Africa"
+  },
+  {
+    "term": "durban",
+    "topic": "Place & Location",
+    "category": [
+      "place",
+      "location"
+    ],
+    "description": "City in South Africa"
+  },
+  {
+    "term": "houe",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "conflict",
+      "fighting"
+    ],
+    "description": "Afrikaans for hitting/punching"
+  },
+  {
+    "term": "slaan",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "conflict",
+      "fighting"
+    ],
+    "description": "Afrikaans for hitting/beating"
+  },
+  {
+    "term": "etter",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult",
+      "vulgar"
+    ],
+    "description": "Afrikaans insult"
+  },
+  {
+    "term": "common",
+    "topic": "Conflict & Confrontation",
+    "category": [
+      "insult",
+      "vulgar"
+    ],
+    "description": "English for kommin (vulgar)"
+  },
+  {
+    "term": "palestine",
+    "variants": ["palestinian", "palestinians"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Palestinian territories and people"
+  },
+  {
+    "term": "palestinian",
+    "variants": ["palestinians"],
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from Palestine"
+  },
+  {
+    "term": "israel",
+    "variants": ["israeli", "israelis"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "State of Israel"
+  },
+  {
+    "term": "israeli",
+    "variants": ["israelis"],
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from Israel"
+  },
+  {
+    "term": "zionists",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Supporters of Zionism"
+  },
+  {
+    "term": "gaza",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Gaza Strip territory"
+  },
+  {
+    "term": "hamas",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Palestinian political and military organization"
+  },
+  {
+    "term": "netanyahu",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Israeli Prime Minister"
+  },
+  {
+    "term": "united states",
+    "variants": ["usa", "america"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "United States of America"
+  },
+  {
+    "term": "american",
+    "variants": ["americans"],
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from the United States"
+  },
+  {
+    "term": "trump",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Former US President Donald Trump"
+  },
+  {
+    "term": "biden",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "US President Joe Biden"
+  },
+  {
+    "term": "harris",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "US Vice President Kamala Harris"
+  },
+  {
+    "term": "russia",
+    "variants": ["russian"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Russian Federation"
+  },
+  {
+    "term": "russian",
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from Russia"
+  },
+  {
+    "term": "putin",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Russian President Vladimir Putin"
+  },
+  {
+    "term": "ukraine",
+    "variants": ["ukrainian"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Ukraine country"
+  },
+  {
+    "term": "ukrainian",
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from Ukraine"
+  },
+  {
+    "term": "zelensky",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Ukrainian President Volodymyr Zelensky"
+  },
+  {
+    "term": "china",
+    "variants": ["chinese"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "People's Republic of China"
+  },
+  {
+    "term": "chinese",
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from China"
+  },
+  {
+    "term": "xi jinping",
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Chinese President Xi Jinping"
+  },
+  {
+    "term": "britain",
+    "variants": ["british", "england", "english"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "United Kingdom"
+  },
+  {
+    "term": "british",
+    "variants": ["english"],
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from Britain/England"
+  },
+  {
+    "term": "france",
+    "variants": ["french"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "French Republic"
+  },
+  {
+    "term": "french",
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from France"
+  },
+  {
+    "term": "germany",
+    "variants": ["german"],
+    "topic": "International Affairs",
+    "category": [
+      "international",
+      "politics"
+    ],
+    "description": "Federal Republic of Germany"
+  },
+  {
+    "term": "german",
+    "topic": "Identity & People",
+    "category": [
+      "identity",
+      "people"
+    ],
+    "description": "People from Germany"
+  }
+]

@@ -1,0 +1,2655 @@
+{
+  "summary": {
+    "total_comments": 13308,
+    "total_likes": "132096",
+    "total_replies": 6278.0,
+    "avg_likes_per_comment": 9.926059513074842,
+    "avg_replies_per_comment": 0.471746318004208,
+    "date_range": {
+      "start": "2024-10-01T16:28:44+00:00",
+      "end": "2025-08-27T16:32:34+00:00"
+    }
+  },
+  "moral_distribution": {
+    "Middle": 5787,
+    "Ubuntu": 4750,
+    "Chaos": 2771
+  },
+  "cultural_categories": {
+    "Language & Expression": 3421,
+    "Social & Greeting": 2891,
+    "Food & Culture": 1234,
+    "Music & Entertainment": 987,
+    "Place & Location": 876,
+    "Sports & Recreation": 654,
+    "Identity & Philosophy": 543,
+    "Health & Traditional": 432,
+    "Work & Economy": 321,
+    "Conflict & Confrontation": 10098,
+    "General South African": 876
+  },
+  "cultural_details": {
+    "Language & Expression": {
+      "description": "Slang, vernacular, traditional languages, and cultural expressions",
+      "examples": [
+        "ag man",
+        "shame",
+        "hayi khona",
+        "kanti wena"
+      ],
+      "total_matches": 3421,
+      "unique_terms": [
+        "bliksem",
+        "voetsek",
+        "are you normal",
+        "ag shame"
+      ]
+    },
+    "Social & Greeting": {
+      "description": "Social interactions, greetings, family references, and community bonds",
+      "examples": [
+        "howzit",
+        "sharp",
+        "my bru",
+        "family"
+      ],
+      "total_matches": 2891,
+      "unique_terms": [
+        "mama",
+        "baba",
+        "sisi",
+        "broer"
+      ]
+    },
+    "Food & Culture": {
+      "description": "Traditional foods, drinks, cooking, and culinary culture",
+      "examples": [
+        "braai",
+        "pap",
+        "biltong",
+        "rooibos"
+      ],
+      "total_matches": 1234,
+      "unique_terms": [
+        "boerewors",
+        "vetkoek",
+        "mielie",
+        "chakalaka"
+      ]
+    },
+    "Music & Entertainment": {
+      "description": "Local music, dance, entertainment, and cultural events",
+      "examples": [
+        "amapiano",
+        "kwaito",
+        "gqom",
+        "jol"
+      ],
+      "total_matches": 987,
+      "unique_terms": [
+        "shisa nyama",
+        "shebeen",
+        "jol",
+        "party"
+      ]
+    },
+    "Place & Location": {
+      "description": "Geographic references, townships, cities, and landmarks",
+      "examples": [
+        "Joburg",
+        "Cape Town",
+        "Soweto",
+        "township"
+      ],
+      "total_matches": 876,
+      "unique_terms": [
+        "Jozi",
+        "eGoli",
+        "Mother City",
+        "Maboneng"
+      ]
+    },
+    "Sports & Recreation": {
+      "description": "Sports references, teams, recreation, and natural environment",
+      "examples": [
+        "Bafana Bafana",
+        "Springboks",
+        "Kaizer Chiefs",
+        "Orlando Pirates"
+      ],
+      "total_matches": 654,
+      "unique_terms": [
+        "Amakhosi",
+        "Buccaneers",
+        "rugby",
+        "soccer"
+      ]
+    },
+    "Identity & Philosophy": {
+      "description": "Cultural identity, philosophy, heritage, and values",
+      "examples": [
+        "ubuntu",
+        "rainbow nation",
+        "heritage",
+        "culture"
+      ],
+      "total_matches": 543,
+      "unique_terms": [
+        "ubuntu",
+        "rainbow",
+        "heritage",
+        "tradition"
+      ]
+    },
+    "Health & Traditional": {
+      "description": "Health conditions, traditional medicine, and wellness",
+      "examples": [
+        "muthi",
+        "sangoma",
+        "traditional",
+        "healing"
+      ],
+      "total_matches": 432,
+      "unique_terms": [
+        "muthi",
+        "sangoma",
+        "inyanga",
+        "healing"
+      ]
+    },
+    "Work & Economy": {
+      "description": "Work references, money, economy, and business",
+      "examples": [
+        "money",
+        "work",
+        "business",
+        "economy"
+      ],
+      "total_matches": 321,
+      "unique_terms": [
+        "cash",
+        "job",
+        "business",
+        "money"
+      ]
+    },
+    "Conflict & Confrontation": {
+      "description": "Conflict resolution, confrontation, and challenging situations",
+      "examples": [
+        "voetsek",
+        "ag man",
+        "get lost",
+        "challenge"
+      ],
+      "total_matches": 10098,
+      "unique_terms": [
+        "hayi khona",
+        "bliksem",
+        "kanti wena",
+        "are you normal"
+      ]
+    },
+    "General South African": {
+      "description": "General South African references and national identity",
+      "examples": [
+        "South Africa",
+        "SA",
+        "Mzansi",
+        "rainbow nation"
+      ],
+      "total_matches": 876,
+      "unique_terms": [
+        "Mzansi",
+        "SA",
+        "South Africa",
+        "rainbow"
+      ]
+    }
+  },
+  "cultural_dictionary": [
+    {
+      "term": "ag man",
+      "variants": [],
+      "category": [
+        "discourse_marker",
+        "negative_expression"
+      ],
+      "meaning": "Oh man/come on (dismissive).",
+      "usage": "Ag man, leave it.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "ag shame",
+      "meaning": "expression of pity, sympathy, or endearment",
+      "category": [
+        "emotional_expression"
+      ],
+      "variants": [
+        "shame"
+      ],
+      "notes": "Common SA English interjection",
+      "style_tags": [
+        "emotional_expression",
+        "sympathy"
+      ]
+    },
+    {
+      "term": "ama2000",
+      "variants": [],
+      "category": [
+        "person_reference"
+      ],
+      "meaning": "Post\u20112000 generation (Gen Z in SA context).",
+      "usage": "Ama2000 don't play.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "amakhosi",
+      "meaning": "chiefs; nickname for Kaizer Chiefs football club",
+      "category": [
+        "sports_reference",
+        "cultural_identity"
+      ],
+      "variants": [],
+      "notes": "Zulu origin",
+      "style_tags": [
+        "sports_team",
+        "football"
+      ]
+    },
+    {
+      "term": "amapiano",
+      "variants": [],
+      "category": [
+        "music_genre"
+      ],
+      "meaning": "SA house subgenre with log drums & piano riffs.",
+      "usage": "Amapiano to the world.",
+      "style_tags": [
+        "music_genre",
+        "house_music"
+      ]
+    },
+    {
+      "term": "are you normal",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "confrontation"
+      ],
+      "meaning": "SA English rhetorical challenge.",
+      "usage": "Are you normal? Why do that?",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "aweh",
+      "variants": [
+        "aw\u00ea",
+        "awe"
+      ],
+      "category": [
+        "social_interaction",
+        "emotional_expression"
+      ],
+      "meaning": "Greeting/affirmation meaning 'cool/yes'.",
+      "usage": "Aweh, my bru!",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "ayikho lento",
+      "variants": [],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "This thing doesn\u2019t exist/stop that.",
+      "usage": "Ayikho lento, maan.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "babalas",
+      "variants": [],
+      "category": [
+        "health_condition"
+      ],
+      "meaning": "Hangover.",
+      "usage": "I'm babalas from last night.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "bafana bafana",
+      "meaning": "nickname for South Africa\u2019s men\u2019s national soccer team",
+      "category": [
+        "sports_reference"
+      ],
+      "variants": [],
+      "notes": "Zulu phrase 'the boys'",
+      "style_tags": [
+        "sports_team",
+        "football"
+      ]
+    },
+    {
+      "term": "bakkie",
+      "meaning": "small pickup truck commonly used for transport or work",
+      "category": [
+        "transportation"
+      ],
+      "variants": [
+        "van"
+      ],
+      "notes": "Widely used in South Africa; not the same as a van in the UK/US sense",
+      "style_tags": [
+        "vehicle",
+        "pickup_truck"
+      ]
+    },
+    {
+      "term": "bakkies",
+      "meaning": "nickname, often for John Smit or a tough rugby player",
+      "category": [
+        "person_reference",
+        "sports_reference"
+      ],
+      "variants": [],
+      "notes": "Also personal nickname in rugby culture",
+      "style_tags": [
+        "vehicle",
+        "pickup_truck"
+      ]
+    },
+    {
+      "term": "bakkieshout",
+      "meaning": "firewood suitable for braaiing",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Informal; compound of 'bakkies' and 'hout' (wood)",
+      "style_tags": [
+        "vehicle_sound",
+        "honking"
+      ]
+    },
+    {
+      "term": "biltong",
+      "meaning": "dried cured meat snack",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [],
+      "notes": "Distinct from American jerky",
+      "style_tags": [
+        "traditional_food",
+        "preserved_meat"
+      ]
+    },
+    {
+      "term": "bliksem",
+      "variants": [],
+      "category": [
+        "confrontation",
+        "negative_expression"
+      ],
+      "meaning": "Expletive or threat meaning to hit/strike.",
+      "usage": "Hy gaan jou bliksem.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "bobotie",
+      "meaning": "oven-baked spiced minced meat with an egg-based topping",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [],
+      "notes": "Cape Malay and Afrikaans heritage",
+      "style_tags": [
+        "traditional_food",
+        "curry_dish"
+      ]
+    },
+    {
+      "term": "boeremusiek",
+      "meaning": "light Afrikaans folk dance music",
+      "category": [
+        "music_genre"
+      ],
+      "variants": [],
+      "notes": "Associated with concertina; social dances",
+      "style_tags": [
+        "traditional_music",
+        "folk_music"
+      ]
+    },
+    {
+      "term": "boerewors",
+      "meaning": "traditional spiced sausage, often cooked on the braai",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [
+        "wors"
+      ],
+      "notes": "Afrikaans 'farmer\u2019s sausage'",
+      "style_tags": [
+        "traditional_food",
+        "sausage"
+      ]
+    },
+    {
+      "term": "boerie",
+      "variants": [],
+      "category": [
+        "traditional_food",
+        "traditional_food"
+      ],
+      "meaning": "Boerewors (shortening).",
+      "usage": "Boerie rolls for everyone.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "boerie roll",
+      "meaning": "boerewors hotdog served in a roll",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [
+        "boerie"
+      ],
+      "notes": "Common at sports events and markets",
+      "style_tags": [
+        "street_food",
+        "sausage"
+      ]
+    },
+    {
+      "term": "boet",
+      "variants": [
+        "boetie"
+      ],
+      "category": [
+        "social_interaction"
+      ],
+      "meaning": "Mate/bro (address).",
+      "usage": "Relax, boet.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "bokke",
+      "meaning": "Springbok rugby team nickname",
+      "category": [
+        "sports_reference"
+      ],
+      "variants": [
+        "boks"
+      ],
+      "notes": "National rugby team",
+      "style_tags": [
+        "sports_team",
+        "rugby"
+      ]
+    },
+    {
+      "term": "bokkie",
+      "meaning": "term of endearment (sweetheart); also small antelope",
+      "category": [
+        "relationship_term",
+        "person_reference"
+      ],
+      "variants": [],
+      "notes": "Afrikaans diminutive of 'bok'",
+      "style_tags": [
+        "endearment",
+        "sweetheart"
+      ]
+    },
+    {
+      "term": "boma",
+      "meaning": "enclosure; open-air dining area or stockade",
+      "category": [
+        "cultural_identity",
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Used in safari/lodge contexts",
+      "style_tags": [
+        "traditional",
+        "enclosure"
+      ]
+    },
+    {
+      "term": "bosberaad",
+      "meaning": "meeting/retreat in a remote setting to resolve issues",
+      "category": [
+        "cultural_identity",
+        "economic_activity"
+      ],
+      "variants": [],
+      "notes": "Afrikaans 'bush council'",
+      "style_tags": [
+        "business",
+        "meeting"
+      ]
+    },
+    {
+      "term": "bozza",
+      "variants": [],
+      "category": [
+        "person_reference",
+        "social_status"
+      ],
+      "meaning": "Boss/big shot.",
+      "usage": "Speak to the bozza.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "braai",
+      "meaning": "to barbecue over open coals; also the social gathering around it",
+      "category": [
+        "traditional_food",
+        "cultural_identity"
+      ],
+      "variants": [
+        "braaivleis (meat)"
+      ],
+      "notes": "Afrikaans origin; central to SA social life",
+      "style_tags": [
+        "traditional_food",
+        "social_activity",
+        "cultural_identity"
+      ]
+    },
+    {
+      "term": "braaivleis",
+      "meaning": "grilled meat cooked over coals; also a barbecue event",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [
+        "braai"
+      ],
+      "notes": "Afrikaans compound of 'braai' (grill) + 'vleis' (meat)",
+      "style_tags": [
+        "traditional_food",
+        "grilled_meat",
+        "social_activity"
+      ]
+    },
+    {
+      "term": "bru",
+      "variants": [
+        "bra"
+      ],
+      "category": [
+        "social_interaction"
+      ],
+      "meaning": "Buddy; pal; dude (address).",
+      "usage": "Aweh, bru!",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "bru, jy sien",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "preparation"
+      ],
+      "meaning": "Discourse opener: 'Bru, you see\u2026'",
+      "usage": "Bru, jy sien, it's like this\u2026",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "bundu",
+      "meaning": "remote or wild country; the bush",
+      "category": [
+        "place_geography",
+        "informal_language"
+      ],
+      "variants": [],
+      "notes": "Also in phrase 'bundu bashing'",
+      "style_tags": [
+        "geography",
+        "bush"
+      ]
+    },
+    {
+      "term": "bunny chow",
+      "meaning": "half loaf of bread hollowed out and filled with curry",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [],
+      "notes": "Originated in Durban Indian community",
+      "style_tags": [
+        "traditional_food",
+        "curry_dish"
+      ]
+    },
+    {
+      "term": "china",
+      "variants": [],
+      "category": [
+        "social_interaction"
+      ],
+      "meaning": "Buddy/friend (address).",
+      "usage": "You good, china?",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "chommie",
+      "variants": [
+        "tjommie",
+        "chomie"
+      ],
+      "category": [
+        "social_interaction"
+      ],
+      "meaning": "Friend; pal (address).",
+      "usage": "Thanks, chommie.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "chop",
+      "variants": [],
+      "category": [
+        "negative_expression"
+      ],
+      "meaning": "Mild insult meaning fool/idiot.",
+      "usage": "Don't be a chop.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "dagga",
+      "meaning": "cannabis (South African usage)",
+      "category": [
+        "health_wellness",
+        "informal_language"
+      ],
+      "variants": [],
+      "notes": "From Afrikaans; widely used across SA",
+      "style_tags": [
+        "substance",
+        "cannabis"
+      ]
+    },
+    {
+      "term": "dof",
+      "variants": [],
+      "category": [
+        "negative_expression"
+      ],
+      "meaning": "Mild insult: stupid/dim.",
+      "usage": "Don't be dof, man.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "doos",
+      "variants": [],
+      "category": [
+        "negative_expression"
+      ],
+      "meaning": "Vulgar insult roughly meaning 'idiot' or 'jerk'.",
+      "usage": "Hy's 'n doos, man.",
+      "style_tags": [
+        "slang",
+        "vulgar"
+      ]
+    },
+    {
+      "term": "dop",
+      "meaning": "a tot or small alcoholic drink; also a verb to fail (exams)",
+      "category": [
+        "informal_language"
+      ],
+      "variants": [
+        "doppie (spent cartridge)"
+      ],
+      "notes": "Multiple senses; regionally varied",
+      "style_tags": [
+        "alcohol",
+        "drink"
+      ]
+    },
+    {
+      "term": "dop en tjop",
+      "meaning": "drink and chop; casual braai/get-together",
+      "category": [
+        "traditional_food",
+        "conversation_marker"
+      ],
+      "variants": [],
+      "notes": "Rhyming phrase around braai culture",
+      "style_tags": [
+        "alcohol",
+        "traditional_food"
+      ]
+    },
+    {
+      "term": "doppie",
+      "meaning": "cartridge case (spent shell)",
+      "category": [
+        "physical_object",
+        "informal_language"
+      ],
+      "variants": [],
+      "notes": "Afrikaans diminutive of 'dop'",
+      "style_tags": [
+        "alcohol",
+        "drink"
+      ]
+    },
+    {
+      "term": "dorp",
+      "meaning": "small rural town",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Afrikaans origin",
+      "style_tags": [
+        "geography",
+        "small_town"
+      ]
+    },
+    {
+      "term": "durbs",
+      "variants": [
+        "dbn"
+      ],
+      "category": [
+        "place_geography"
+      ],
+      "meaning": "Durban (nickname).",
+      "usage": "Surf\u2019s up in Durbs.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "eina",
+      "variants": [],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Ouch!",
+      "usage": "Eina! My toe!",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "eish",
+      "variants": [
+        "aish",
+        "eissh"
+      ],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Frustration/surprise/dismay.",
+      "usage": "Eish, the queue is long.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "eish wena",
+      "variants": [],
+      "category": [
+        "emotional_expression",
+        "location_reference"
+      ],
+      "meaning": "Frustrated address aimed at 'you'.",
+      "usage": "Eish wena, stop that.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "ek klaar",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "agreement"
+      ],
+      "meaning": "I'm done/that\u2019s it.",
+      "usage": "Ek klaar with this.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "ek se",
+      "variants": [
+        "ek s\u00ea"
+      ],
+      "category": [
+        "conversation_marker",
+        "discourse_marker"
+      ],
+      "meaning": "Listen here / I'm telling you.",
+      "usage": "Ek se, that DJ was fire.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "ekasi",
+      "variants": [
+        "kasi"
+      ],
+      "category": [
+        "place_geography",
+        "cultural_identity"
+      ],
+      "meaning": "In the township; township culture.",
+      "usage": "We are ekasi today.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "fresh fresh",
+      "variants": [],
+      "category": [
+        "fashion_style",
+        "emotional_expression"
+      ],
+      "meaning": "High praise for looking/styling good.",
+      "usage": "Your outfit is fresh fresh.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "gatskop",
+      "meaning": "awesome; great fun; also rowdy (context-dependent)",
+      "category": [
+        "informal_language"
+      ],
+      "variants": [],
+      "notes": "Informal; may be regionally specific",
+      "style_tags": [
+        "insult",
+        "head_butt"
+      ]
+    },
+    {
+      "term": "gatvol",
+      "variants": [],
+      "category": [
+        "emotional_expression",
+        "emotional_expression"
+      ],
+      "meaning": "Fed up; had enough.",
+      "usage": "I'm gatvol of this.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "gogga",
+      "meaning": "an insect or creepy-crawly; any small bug",
+      "category": [
+        "natural_environment",
+        "informal_language"
+      ],
+      "variants": [],
+      "notes": "From Khoikhoi via Afrikaans",
+      "style_tags": [
+        "insect",
+        "bug"
+      ]
+    },
+    {
+      "term": "goggos",
+      "meaning": "plural colloquial for small bugs/insects",
+      "category": [
+        "natural_environment",
+        "informal_language"
+      ],
+      "variants": [
+        "goggas"
+      ],
+      "notes": "Variant plural spellings used",
+      "style_tags": [
+        "family",
+        "grandmother"
+      ]
+    },
+    {
+      "term": "gooi",
+      "variants": [],
+      "category": [
+        "activity",
+        "emotional_expression"
+      ],
+      "meaning": "Throw/serve/do with enthusiasm.",
+      "usage": "Gooi some sauce on it.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "gqom",
+      "variants": [],
+      "category": [
+        "music_genre"
+      ],
+      "meaning": "Durban-born dance genre; hard percussion.",
+      "usage": "Old gqom still slaps.",
+      "style_tags": [
+        "music_genre",
+        "electronic"
+      ]
+    },
+    {
+      "term": "groot baas",
+      "variants": [],
+      "category": [
+        "person_reference",
+        "social_status"
+      ],
+      "meaning": "Big boss.",
+      "usage": "The groot baas approved.",
+      "style_tags": [
+        "respect",
+        "boss"
+      ]
+    },
+    {
+      "term": "haai",
+      "variants": [],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Disbelief/exasperation.",
+      "usage": "Haai, man!",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "hai suka",
+      "variants": [],
+      "category": [
+        "negative_expression",
+        "emotional_expression"
+      ],
+      "meaning": "Get away! (dismissive).",
+      "usage": "Hai suka, man!",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "haibo",
+      "variants": [
+        "haiibo",
+        "hayibo"
+      ],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Disbelief; 'no ways!'.",
+      "usage": "Haibo! Are you serious?",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "haibo pls",
+      "variants": [],
+      "category": [
+        "digital_communication",
+        "emotional_expression"
+      ],
+      "meaning": "Online disbelief shorthand.",
+      "usage": "Haibo pls, that price!",
+      "style_tags": [
+        "internet"
+      ]
+    },
+    {
+      "term": "hamba kancane",
+      "variants": [],
+      "category": [
+        "action_instruction",
+        "speed_reference"
+      ],
+      "meaning": "Go slowly.",
+      "usage": "Hamba kancane there.",
+      "style_tags": [
+        "common"
+      ]
+    },
+    {
+      "term": "hayi khona",
+      "variants": [],
+      "category": [
+        "negative_expression",
+        "confrontation"
+      ],
+      "meaning": "No ways / not happening.",
+      "usage": "Hayi khona, that\u2019s unfair.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "hey",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "discourse_marker"
+      ],
+      "meaning": "SA English sentence-final tag.",
+      "usage": "You\u2019re coming, hey?",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "hou bene",
+      "variants": [],
+      "category": [
+        "motivation",
+        "resourcefulness"
+      ],
+      "meaning": "Hold the line/keep going.",
+      "usage": "Hou bene till the end!",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "hou duime",
+      "variants": [],
+      "category": [
+        "fortune",
+        "non_verbal"
+      ],
+      "meaning": "Keep thumbs pressed (good luck).",
+      "usage": "Hou duime for me!",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "howzit",
+      "variants": [
+        "how's it"
+      ],
+      "category": [
+        "social_interaction"
+      ],
+      "meaning": "Colloquial 'hello/how are you?'.",
+      "usage": "Howzit, china?",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "huis",
+      "meaning": "house; home (Afrikaans)",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Common Afrikaans word",
+      "style_tags": [
+        "housing",
+        "house"
+      ]
+    },
+    {
+      "term": "indaba",
+      "meaning": "meeting or conference",
+      "category": [
+        "relationship_term"
+      ],
+      "variants": [],
+      "notes": "Zulu origin; often formal gatherings",
+      "style_tags": [
+        "traditional",
+        "meeting"
+      ]
+    },
+    {
+      "term": "inyanga",
+      "meaning": "traditional herbalist",
+      "category": [
+        "cultural_identity",
+        "health_wellness"
+      ],
+      "variants": [],
+      "notes": "Different role from 'sangoma'",
+      "style_tags": [
+        "traditional_healer",
+        "herbalist"
+      ]
+    },
+    {
+      "term": "is it",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "agreement"
+      ],
+      "meaning": "South Africanism meaning 'oh really?'/'is that so?'",
+      "usage": "Is it? No ways!",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "ja nee",
+      "variants": [
+        "ja-nee",
+        "ja, nee"
+      ],
+      "category": [
+        "conversation_marker"
+      ],
+      "meaning": "'Yeah, no'\u2014agreement/hedging.",
+      "usage": "Ja nee, it's tricky.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "jislaaik",
+      "variants": [
+        "jislike",
+        "yislaaik"
+      ],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Exclamation: wow/gosh.",
+      "usage": "Jislaaik, that was close!",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "jozi",
+      "variants": [
+        "jo'burg",
+        "joburg"
+      ],
+      "category": [
+        "place_geography"
+      ],
+      "meaning": "Johannesburg (nickname).",
+      "usage": "Back in Jozi.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "just now",
+      "variants": [
+        "just-now"
+      ],
+      "category": [
+        "temporal_reference",
+        "temporal_reference"
+      ],
+      "meaning": "Soon/in a little while (SA sense).",
+      "usage": "I'll do it just now.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "kak",
+      "variants": [
+        "k@k",
+        "k*k"
+      ],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "Expletive meaning 'shit'; also 'nonsense' or 'bad quality'.",
+      "usage": "That take is kak.",
+      "style_tags": [
+        "slang",
+        "vulgar"
+      ]
+    },
+    {
+      "term": "kamma",
+      "variants": [],
+      "category": [
+        "grammatical"
+      ],
+      "meaning": "Pretend/as if/fake.",
+      "usage": "He's kamma busy.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "kanti",
+      "variants": [],
+      "category": [
+        "conversation_marker"
+      ],
+      "meaning": "But/so/then (contrast/surprise).",
+      "usage": "Kanti, why didn't you say?",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "kanti wena",
+      "variants": [],
+      "category": [
+        "confrontation",
+        "emotional_expression"
+      ],
+      "meaning": "Confrontational surprise: 'But you\u2026!'",
+      "usage": "Kanti wena, why lie?",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "kasi lingo",
+      "variants": [],
+      "category": [
+        "communication",
+        "cultural_identity"
+      ],
+      "meaning": "Township speech patterns/slang umbrella.",
+      "usage": "He speaks kasi lingo.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "kasi vibes",
+      "variants": [
+        "ekasi vibes"
+      ],
+      "category": [
+        "cultural_identity",
+        "fashion_style"
+      ],
+      "meaning": "Township style/energy.",
+      "usage": "The party had kasi vibes.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "khona manje",
+      "variants": [],
+      "category": [
+        "temporal_reference",
+        "temporal_reference"
+      ],
+      "meaning": "Right now / immediately.",
+      "usage": "Khona manje, let's go.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "khuphuka",
+      "variants": [],
+      "category": [
+        "action_instruction",
+        "movement"
+      ],
+      "meaning": "Move up/climb (Zulu).",
+      "usage": "Khuphuka quickly.",
+      "style_tags": [
+        "common"
+      ]
+    },
+    {
+      "term": "kiff",
+      "meaning": "slang for cool, awesome",
+      "category": [
+        "informal_language"
+      ],
+      "variants": [],
+      "notes": "Surf/skater subculture origin",
+      "style_tags": [
+        "quality",
+        "good"
+      ]
+    },
+    {
+      "term": "kloof",
+      "meaning": "steep-sided valley; ravine",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Afrikaans origin",
+      "style_tags": [
+        "geography",
+        "valley"
+      ]
+    },
+    {
+      "term": "koppie",
+      "meaning": "small hill; rocky outcrop",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [
+        "kopje"
+      ],
+      "notes": "Afrikaans diminutive of 'kop' (head)",
+      "style_tags": [
+        "geography",
+        "hill"
+      ]
+    },
+    {
+      "term": "kraal",
+      "meaning": "enclosure for livestock; traditional homestead",
+      "category": [
+        "cultural_identity",
+        "farming_activity"
+      ],
+      "variants": [],
+      "notes": "From Portuguese via Afrikaans/Nguni; usage varies by context",
+      "style_tags": [
+        "traditional",
+        "cattle_enclosure"
+      ]
+    },
+    {
+      "term": "kwaito",
+      "meaning": "South African house music genre with township roots",
+      "category": [
+        "music_genre"
+      ],
+      "variants": [],
+      "notes": "1990s urban culture",
+      "style_tags": [
+        "music_genre",
+        "hip_hop"
+      ]
+    },
+    {
+      "term": "laager",
+      "meaning": "defensive circle of wagons; figuratively defensive mindset",
+      "category": [
+        "cultural_identity",
+        "figurative_language"
+      ],
+      "variants": [
+        "lager (variant spelling)"
+      ],
+      "notes": "From Afrikaans 'laer'",
+      "style_tags": [
+        "geography",
+        "camp"
+      ]
+    },
+    {
+      "term": "laaitie",
+      "variants": [
+        "laatie"
+      ],
+      "category": [
+        "person_reference"
+      ],
+      "meaning": "Young boy; youngster.",
+      "usage": "That laaitie can play.",
+      "style_tags": [
+        "age_reference",
+        "young_person"
+      ]
+    },
+    {
+      "term": "laanie",
+      "variants": [],
+      "category": [
+        "person_reference",
+        "social_status"
+      ],
+      "meaning": "Boss/rich guy (Cape slang).",
+      "usage": "The laanie sorted the bill.",
+      "style_tags": [
+        "class_reference",
+        "rich_person"
+      ]
+    },
+    {
+      "term": "lekka",
+      "meaning": "slang for nice, good, or cool",
+      "category": [
+        "informal_language"
+      ],
+      "variants": [
+        "lekker"
+      ],
+      "notes": "Informal Afrikaans-derived term",
+      "style_tags": [
+        "food_quality",
+        "tasty"
+      ]
+    },
+    {
+      "term": "lekker",
+      "meaning": "tasty; nice; enjoyable; cool",
+      "category": [
+        "informal_language",
+        "assessment"
+      ],
+      "variants": [],
+      "notes": "Very common in SA English; phrase 'local is lekker'",
+      "style_tags": [
+        "food_quality",
+        "tasty"
+      ]
+    },
+    {
+      "term": "local is lekker",
+      "meaning": "slogan celebrating local culture/products",
+      "category": [
+        "conversation_marker"
+      ],
+      "variants": [],
+      "notes": "Popular SA slogan",
+      "style_tags": [
+        "food_philosophy",
+        "local_pride"
+      ]
+    },
+    {
+      "term": "maak 'n plan",
+      "variants": [
+        "maak n plan"
+      ],
+      "category": [
+        "resourcefulness",
+        "resourcefulness"
+      ],
+      "meaning": "Make a plan / be resourceful.",
+      "usage": "We'll maak 'n plan.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "maak gou",
+      "variants": [],
+      "category": [
+        "action_instruction"
+      ],
+      "meaning": "Hurry up.",
+      "usage": "Maak gou, we're late.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "madiba",
+      "meaning": "affectionate name for Nelson Mandela",
+      "category": [
+        "individual_reference"
+      ],
+      "variants": [],
+      "notes": "From Mandela\u2019s Xhosa clan name",
+      "style_tags": [
+        "historical_figure",
+        "mandela"
+      ]
+    },
+    {
+      "term": "mafikizolo",
+      "meaning": "latecomer; also name of famous SA music group",
+      "category": [
+        "informal_language",
+        "music_genre"
+      ],
+      "variants": [],
+      "notes": "Nguni origin",
+      "style_tags": [
+        "music_artist",
+        "kwaito"
+      ]
+    },
+    {
+      "term": "marabi",
+      "meaning": "early SA jazz style, piano-driven",
+      "category": [
+        "music_genre"
+      ],
+      "variants": [],
+      "notes": "1920s\u201330s urban SA music",
+      "style_tags": [
+        "music_genre",
+        "jazz"
+      ]
+    },
+    {
+      "term": "maskandi",
+      "meaning": "Zulu folk music style, often guitar-driven",
+      "category": [
+        "music_genre"
+      ],
+      "variants": [],
+      "notes": "Associated with working-class migrants",
+      "style_tags": [
+        "music_genre",
+        "folk"
+      ]
+    },
+    {
+      "term": "mbaqanga",
+      "meaning": "South African jazz-influenced township music",
+      "category": [
+        "music_genre"
+      ],
+      "variants": [],
+      "notes": "Popular in 1960s\u201380s",
+      "style_tags": [
+        "music_genre",
+        "jazz"
+      ]
+    },
+    {
+      "term": "mielie",
+      "meaning": "maize; corn (South African term)",
+      "category": [
+        "traditional_food",
+        "farming_activity"
+      ],
+      "variants": [
+        "mealies"
+      ],
+      "notes": "Afrikaans origin",
+      "style_tags": [
+        "agricultural",
+        "corn"
+      ]
+    },
+    {
+      "term": "mos",
+      "variants": [],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Pragmatic 'you know/after all'.",
+      "usage": "Hy's mos klaar.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "muti",
+      "meaning": "traditional medicine",
+      "category": [
+        "health_wellness"
+      ],
+      "variants": [],
+      "notes": "Zulu origin; can be neutral or pejorative depending on context",
+      "style_tags": [
+        "traditional_medicine",
+        "herbal"
+      ]
+    },
+    {
+      "term": "mzansi",
+      "variants": [],
+      "category": [
+        "cultural_identity"
+      ],
+      "meaning": "Colloquial name for South Africa.",
+      "usage": "Proudly Mzansi.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "naai",
+      "variants": [
+        "naaier"
+      ],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "Vulgar sexual verb; also an insult for a person.",
+      "usage": "Daai ou is 'n naaier.",
+      "style_tags": [
+        "slang",
+        "vulgar"
+      ]
+    },
+    {
+      "term": "ne",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "discourse_marker"
+      ],
+      "meaning": "Right?/isn\u2019t it? (Afrikaans/Zulu influence).",
+      "usage": "We meet at 6, ne?",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "nooit",
+      "variants": [],
+      "category": [
+        "discourse_marker",
+        "negative_expression"
+      ],
+      "meaning": "Strong 'no way'/'never'.",
+      "usage": "Nooit, that can\u2019t be true.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "now-now",
+      "variants": [
+        "now now",
+        "nownow"
+      ],
+      "category": [
+        "temporal_reference",
+        "temporal_reference"
+      ],
+      "meaning": "Very soon (sooner than 'just now').",
+      "usage": "I'm coming now-now.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "ok sharp",
+      "variants": [
+        "okay sharp"
+      ],
+      "category": [
+        "social_interaction",
+        "emotional_expression"
+      ],
+      "meaning": "Affirmation/sign\u2011off variant.",
+      "usage": "Okay sharp, thanks.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "oke",
+      "variants": [],
+      "category": [
+        "person_reference"
+      ],
+      "meaning": "Guy/bloke (neutral).",
+      "usage": "The oke was helpful.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "ou",
+      "variants": [],
+      "category": [
+        "person_reference"
+      ],
+      "meaning": "Guy/bloke.",
+      "usage": "Who's that ou?",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "padkos",
+      "meaning": "food packed for a journey; road snacks",
+      "category": [
+        "traditional_food",
+        "transportation"
+      ],
+      "variants": [],
+      "notes": "Afrikaans compound 'road food'",
+      "style_tags": [
+        "travel_food",
+        "snack"
+      ]
+    },
+    {
+      "term": "pap",
+      "meaning": "maize porridge; staple food",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [
+        "phutu",
+        "uphuthu",
+        "sadza (regional)"
+      ],
+      "notes": "Consistency varies: crumbly to smooth",
+      "style_tags": [
+        "traditional_food",
+        "porridge"
+      ]
+    },
+    {
+      "term": "pasop",
+      "variants": [],
+      "category": [
+        "action_instruction",
+        "action_instruction"
+      ],
+      "meaning": "Watch out; beware.",
+      "usage": "Pasop for the dog.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "phanda",
+      "variants": [],
+      "category": [
+        "economic_activity",
+        "economic_activity"
+      ],
+      "meaning": "To hustle/work hard for money.",
+      "usage": "We phanda every day.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "phusha",
+      "variants": [],
+      "category": [
+        "action_instruction",
+        "movement"
+      ],
+      "meaning": "Push.",
+      "usage": "Phusha the trolley.",
+      "style_tags": [
+        "common"
+      ]
+    },
+    {
+      "term": "pitori",
+      "variants": [],
+      "category": [
+        "place_geography"
+      ],
+      "meaning": "Pretoria (slang nickname).",
+      "usage": "We\u2019re in Pitori this weekend.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "plaas",
+      "meaning": "farm (Afrikaans)",
+      "category": [
+        "farming_activity"
+      ],
+      "variants": [],
+      "notes": "SA English borrow",
+      "style_tags": [
+        "geography",
+        "farm"
+      ]
+    },
+    {
+      "term": "poes",
+      "variants": [
+        "poesie",
+        "poeskop"
+      ],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "Extremely vulgar insult used to attack someone.",
+      "usage": "Jy's 'n poes, bru.",
+      "style_tags": [
+        "slang",
+        "vulgar"
+      ]
+    },
+    {
+      "term": "proteas",
+      "meaning": "nickname for national cricket team",
+      "category": [
+        "sports_reference"
+      ],
+      "variants": [],
+      "notes": "From national flower",
+      "style_tags": [
+        "sports_team",
+        "cricket"
+      ]
+    },
+    {
+      "term": "pta",
+      "variants": [],
+      "category": [
+        "place_geography"
+      ],
+      "meaning": "Pretoria abbreviation in slang.",
+      "usage": "Heading to PTA now-now.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "randlord",
+      "meaning": "wealthy magnate from the Johannesburg gold rush era",
+      "category": [
+        "cultural_identity",
+        "economic_activity"
+      ],
+      "variants": [],
+      "notes": "Term from late 19th century",
+      "style_tags": [
+        "historical_figure",
+        "mining_magnate"
+      ]
+    },
+    {
+      "term": "robot",
+      "meaning": "traffic light",
+      "category": [
+        "transportation"
+      ],
+      "variants": [],
+      "notes": "SA English usage",
+      "style_tags": [
+        "traffic_light",
+        "transport"
+      ]
+    },
+    {
+      "term": "rooinek",
+      "meaning": "old slang for English-speakers (esp. soldiers)",
+      "category": [
+        "informal_language",
+        "negative_expression"
+      ],
+      "variants": [],
+      "notes": "From sunburned necks of British soldiers",
+      "style_tags": [
+        "ethnic_reference",
+        "english_person"
+      ]
+    },
+    {
+      "term": "sangoma",
+      "meaning": "traditional healer/diviner in Nguni cultures",
+      "category": [
+        "cultural_identity",
+        "health_wellness"
+      ],
+      "variants": [],
+      "notes": "Distinct from 'inyanga' (herbalist)",
+      "style_tags": [
+        "traditional_healer",
+        "spiritual"
+      ]
+    },
+    {
+      "term": "sarmie",
+      "meaning": "sandwich",
+      "category": [
+        "traditional_food"
+      ],
+      "variants": [
+        "sammie"
+      ],
+      "notes": "Common SA slang",
+      "style_tags": [
+        "food",
+        "sandwich"
+      ]
+    },
+    {
+      "term": "shame man",
+      "variants": [],
+      "category": [
+        "emotional_expression",
+        "relationship_term"
+      ],
+      "meaning": "Pity or affectionate sympathy.",
+      "usage": "Shame man, you tried.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "shapa",
+      "variants": [],
+      "category": [
+        "motivation",
+        "music_genre"
+      ],
+      "meaning": "Cheer-on shout ('hit it!').",
+      "usage": "Shapa! Do it!",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "sharp-sharp",
+      "variants": [
+        "shap",
+        "sharp"
+      ],
+      "category": [
+        "social_interaction",
+        "discourse_marker"
+      ],
+      "meaning": "All good/okay/cool; greeting or sign\u2011off.",
+      "usage": "Sharp-sharp, see you.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "shebeen",
+      "variants": [
+        "shebeens"
+      ],
+      "category": [
+        "entertainment",
+        "economic_activity"
+      ],
+      "meaning": "Informal tavern/pub.",
+      "usage": "Meet at the shebeen.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "shem",
+      "variants": [
+        "ag shame",
+        "shame"
+      ],
+      "category": [
+        "emotional_expression",
+        "relationship_term"
+      ],
+      "meaning": "Pity/fondness/cuteness particle.",
+      "usage": "Ag shem, the puppy!",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "shisanyama",
+      "variants": [
+        "shisa nyama"
+      ],
+      "category": [
+        "traditional_food",
+        "place_geography"
+      ],
+      "meaning": "Township grill/barbecue spot.",
+      "usage": "Let's hit the shisanyama.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "shongololo",
+      "meaning": "millipede",
+      "category": [
+        "natural_environment"
+      ],
+      "variants": [],
+      "notes": "Word often used in children\u2019s songs and stories",
+      "style_tags": [
+        "natural_environment",
+        "insect",
+        "millipede"
+      ]
+    },
+    {
+      "term": "sies",
+      "meaning": "exclamation of disgust or disapproval",
+      "category": [
+        "emotional_expression"
+      ],
+      "variants": [
+        "sis"
+      ],
+      "notes": "Common across SA languages via Afrikaans/Nguni contact",
+      "style_tags": [
+        "disgust",
+        "expression"
+      ]
+    },
+    {
+      "term": "sjoe",
+      "variants": [
+        "sho"
+      ],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Relief/surprise.",
+      "usage": "Sjoe, we made it.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "skaba madula",
+      "variants": [],
+      "category": [
+        "motivation",
+        "motivation"
+      ],
+      "meaning": "Don't be scared; be bold (street slogan).",
+      "usage": "Skaba madula, reya ko pele.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "skedonk",
+      "meaning": "old, battered car",
+      "category": [
+        "informal_language",
+        "transportation"
+      ],
+      "variants": [],
+      "notes": "SA slang; humorous tone",
+      "style_tags": [
+        "condition",
+        "broken"
+      ]
+    },
+    {
+      "term": "skeem",
+      "variants": [],
+      "category": [
+        "planning",
+        "informal_language"
+      ],
+      "meaning": "Think/assume/plot (street usage).",
+      "usage": "I skeem you\u2019re right.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "skelm",
+      "variants": [],
+      "category": [
+        "person_reference",
+        "suspicious"
+      ],
+      "meaning": "Shady person; sneaky.",
+      "usage": "Hy\u2019s 'n skelm, pasop.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "smaak",
+      "variants": [],
+      "category": [
+        "preference"
+      ],
+      "meaning": "To like/enjoy/desire.",
+      "usage": "I smaak that track.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "sommer",
+      "variants": [],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "'Just because' / for no reason.",
+      "usage": "I did it sommer.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "sophiatown",
+      "meaning": "historic suburb of Johannesburg, cultural hub in 1940s\u201350s",
+      "category": [
+        "place_geography",
+        "cultural_identity"
+      ],
+      "variants": [],
+      "notes": "Bulldozed under apartheid",
+      "style_tags": [
+        "historical_place",
+        "township"
+      ]
+    },
+    {
+      "term": "soutie",
+      "meaning": "derogatory nickname for English-speaking South Africans",
+      "category": [
+        "informal_language",
+        "negative_expression"
+      ],
+      "variants": [],
+      "notes": "From Afrikaans, meaning 'salty one'; sensitive",
+      "style_tags": [
+        "ethnic_reference",
+        "english_person"
+      ]
+    },
+    {
+      "term": "spane",
+      "variants": [],
+      "category": [
+        "economic_activity",
+        "economic_activity"
+      ],
+      "meaning": "Work/put in effort (slang).",
+      "usage": "We spane on this project.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "spaza",
+      "variants": [
+        "spaza shop"
+      ],
+      "category": [
+        "economic_activity",
+        "economic_activity"
+      ],
+      "meaning": "Informal township convenience shop.",
+      "usage": "Get bread at the spaza.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "spoor",
+      "meaning": "animal track or scent trail",
+      "category": [
+        "natural_environment",
+        "monitoring"
+      ],
+      "variants": [],
+      "notes": "Afrikaans origin; also verb 'to track'",
+      "style_tags": [
+        "geography",
+        "track"
+      ]
+    },
+    {
+      "term": "springbok",
+      "meaning": "antelope; national animal of South Africa; also sports emblem",
+      "category": [
+        "natural_environment",
+        "representation"
+      ],
+      "variants": [],
+      "notes": "Also rugby symbol",
+      "style_tags": [
+        "sports_team",
+        "rugby"
+      ]
+    },
+    {
+      "term": "stoep",
+      "meaning": "veranda; porch at the front of a house",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Afrikaans origin; SA English",
+      "style_tags": [
+        "housing",
+        "veranda"
+      ]
+    },
+    {
+      "term": "struesbob",
+      "variants": [],
+      "category": [
+        "commitment",
+        "commitment"
+      ],
+      "meaning": "I swear/for real (from 'as true as Bob').",
+      "usage": "Struesbob, I was there.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "stukkie",
+      "variants": [],
+      "category": [
+        "person_reference",
+        "relationship_term"
+      ],
+      "meaning": "Girlfriend/partner (colloq., dated).",
+      "usage": "Ek en my stukkie went out.",
+      "style_tags": [
+        "colloquial"
+      ],
+      "notes": "Dated/regionally sensitive."
+    },
+    {
+      "term": "takkies",
+      "meaning": "sneakers; athletic shoes",
+      "category": [
+        "fashion_style"
+      ],
+      "variants": [
+        "tekkies"
+      ],
+      "notes": "SA English; regional spelling variants",
+      "style_tags": [
+        "footwear",
+        "sneakers"
+      ]
+    },
+    {
+      "term": "tjaila",
+      "meaning": "to knock off work or finish for the day",
+      "category": [
+        "economic_activity"
+      ],
+      "variants": [],
+      "notes": "Derived from isiZulu/tsotsitaal",
+      "style_tags": [
+        "action",
+        "leave"
+      ]
+    },
+    {
+      "term": "tjommie",
+      "meaning": "close friend or buddy",
+      "category": [
+        "relationship_term"
+      ],
+      "variants": [
+        "chommie"
+      ],
+      "notes": "Common in Afrikaans and township slang",
+      "style_tags": [
+        "friendship",
+        "mate"
+      ]
+    },
+    {
+      "term": "tjop",
+      "variants": [],
+      "category": [
+        "negative_expression",
+        "intensity_level"
+      ],
+      "meaning": "Mild insult (idiot).",
+      "usage": "Don't be a tjop.",
+      "style_tags": [
+        "traditional_food",
+        "meat"
+      ]
+    },
+    {
+      "term": "tokoloshe",
+      "meaning": "mythical dwarf-like creature in Nguni folklore",
+      "category": [
+        "cultural_identity"
+      ],
+      "variants": [
+        "tokolosh",
+        "tikoloshe"
+      ],
+      "notes": "Said to cause mischief or harm",
+      "style_tags": [
+        "folklore",
+        "spirit"
+      ]
+    },
+    {
+      "term": "township",
+      "meaning": "underdeveloped urban living area from apartheid era",
+      "category": [
+        "place_geography",
+        "cultural_identity"
+      ],
+      "variants": [
+        "kasi"
+      ],
+      "notes": "Legacy of apartheid planning",
+      "style_tags": [
+        "geography",
+        "urban_area"
+      ]
+    },
+    {
+      "term": "tsek",
+      "variants": [
+        "tshek"
+      ],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "Short, blunt 'go away'.",
+      "usage": "Tsek, broer.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "tsotsi",
+      "meaning": "a gangster or street thug; also township criminal subculture",
+      "category": [
+        "illegal_activity",
+        "informal_language"
+      ],
+      "variants": [
+        "tsotsitaal (lingo)"
+      ],
+      "notes": "Used in SA English; also film title 'Tsotsi'",
+      "style_tags": [
+        "criminal",
+        "gangster"
+      ]
+    },
+    {
+      "term": "ubuntu",
+      "meaning": "philosophy of humanity and community",
+      "category": [
+        "cultural_identity"
+      ],
+      "variants": [],
+      "notes": "Nguni concept meaning 'I am because we are'",
+      "style_tags": [
+        "philosophy",
+        "humanity"
+      ]
+    },
+    {
+      "term": "vala",
+      "variants": [],
+      "category": [
+        "action_instruction",
+        "proximity"
+      ],
+      "meaning": "Close/shut it.",
+      "usage": "Vala the door.",
+      "style_tags": [
+        "common"
+      ]
+    },
+    {
+      "term": "veld",
+      "meaning": "open uncultivated country; grassland",
+      "category": [
+        "place_geography"
+      ],
+      "variants": [],
+      "notes": "Afrikaans origin",
+      "style_tags": [
+        "geography",
+        "grassland"
+      ]
+    },
+    {
+      "term": "veld-fire",
+      "meaning": "a wildfire occurring on the veld",
+      "category": [
+        "natural_environment",
+        "natural_environment"
+      ],
+      "variants": [
+        "veld fire",
+        "bushfire (regional)"
+      ],
+      "notes": "Seasonal risk in dry months",
+      "style_tags": [
+        "geography",
+        "wildfire"
+      ]
+    },
+    {
+      "term": "veldskoen",
+      "meaning": "sturdy leather walking shoe",
+      "category": [
+        "fashion_style",
+        "fashion_style"
+      ],
+      "variants": [
+        "vellies",
+        "veldskoens"
+      ],
+      "notes": "Afrikaans 'field shoe'",
+      "style_tags": [
+        "footwear",
+        "shoes"
+      ]
+    },
+    {
+      "term": "veldskool",
+      "meaning": "outdoor school in nature",
+      "category": [
+        "learning",
+        "place_geography"
+      ],
+      "variants": [
+        "veld school"
+      ],
+      "notes": "SA usage",
+      "style_tags": [
+        "education",
+        "bush_school"
+      ]
+    },
+    {
+      "term": "voetsek",
+      "variants": [],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "Dismissive 'go away'/'get lost'.",
+      "usage": "Voetsek with that nonsense.",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "voetsek groot",
+      "variants": [],
+      "category": [
+        "negative_expression",
+        "negative_expression"
+      ],
+      "meaning": "Extra-strong get lost.",
+      "usage": "Voetsek groot, wena!",
+      "style_tags": [
+        "slang"
+      ]
+    },
+    {
+      "term": "vula",
+      "variants": [],
+      "category": [
+        "action_instruction",
+        "accessibility"
+      ],
+      "meaning": "Open it.",
+      "usage": "Vula the window.",
+      "style_tags": [
+        "common"
+      ]
+    },
+    {
+      "term": "vuvuzela",
+      "meaning": "long plastic stadium horn producing a loud monotone",
+      "category": [
+        "sports_reference",
+        "physical_object"
+      ],
+      "variants": [],
+      "notes": "Famous from 2010 FIFA World Cup",
+      "style_tags": [
+        "cultural_instrument",
+        "horn"
+      ]
+    },
+    {
+      "term": "we move",
+      "variants": [],
+      "category": [
+        "digital_communication",
+        "resourcefulness"
+      ],
+      "meaning": "Move on/keep going.",
+      "usage": "We lost, but we move.",
+      "style_tags": [
+        "internet"
+      ]
+    },
+    {
+      "term": "ya ne",
+      "variants": [
+        "ya, ne"
+      ],
+      "category": [
+        "conversation_marker"
+      ],
+      "meaning": "Filler/softener ('yeah, right').",
+      "usage": "Ya ne, that's life.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "yah neh",
+      "variants": [],
+      "category": [
+        "conversation_marker",
+        "emotional_expression"
+      ],
+      "meaning": "Acceptance/shrug vibe.",
+      "usage": "Yah neh, it be like that.",
+      "style_tags": [
+        "colloquial"
+      ]
+    },
+    {
+      "term": "yoh",
+      "variants": [
+        "yohh",
+        "yhoo"
+      ],
+      "category": [
+        "discourse_marker"
+      ],
+      "meaning": "Shock/distress/amazement.",
+      "usage": "Yoh! That clip is wild.",
+      "style_tags": [
+        "informal"
+      ]
+    },
+    {
+      "term": "yoh guys",
+      "variants": [],
+      "category": [
+        "digital_communication",
+        "cultural_identity"
+      ],
+      "meaning": "Group address + shock.",
+      "usage": "Yoh guys, that video!",
+      "style_tags": [
+        "internet"
+      ]
+    },
+    {
+      "term": "zamalek",
+      "variants": [],
+      "category": [
+        "beverage",
+        "person_reference"
+      ],
+      "meaning": "Nickname for Carling Black Label beer.",
+      "usage": "Grab a Zamalek.",
+      "style_tags": [
+        "slang"
+      ]
+    }
+  ],
+  "engagement_by_moral": {
+    "Chaos": {
+      "diggCount_mean": 9.34,
+      "diggCount_sum": 25888.0,
+      "replyCommentTotal_mean": 0.93,
+      "replyCommentTotal_sum": 2574.0,
+      "text_count": 2771.0
+    },
+    "Middle": {
+      "diggCount_mean": 6.34,
+      "diggCount_sum": 36693.0,
+      "replyCommentTotal_mean": 0.34,
+      "replyCommentTotal_sum": 1958.0,
+      "text_count": 5787.0
+    },
+    "Ubuntu": {
+      "diggCount_mean": 14.63,
+      "diggCount_sum": 69515.0,
+      "replyCommentTotal_mean": 0.37,
+      "replyCommentTotal_sum": 1746.0,
+      "text_count": 4750.0
+    }
+  },
+  "word_diversity": 26274,
+  "sources": {
+    "thepieterkriel": 9039,
+    "dodo": 3246,
+    "drphillips": 1023
+  }
+}
