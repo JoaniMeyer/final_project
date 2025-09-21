@@ -1,32 +1,32 @@
 {
   "summary": {
-    "total_comments": 13308,
+    "total_comments": 11987,
     "total_likes": "132096",
     "total_replies": 6278.0,
-    "avg_likes_per_comment": 9.926059513074842,
-    "avg_replies_per_comment": 0.471746318004208,
+    "avg_likes_per_comment": 11.02,
+    "avg_replies_per_comment": 0.52,
     "date_range": {
       "start": "2024-10-01T16:28:44+00:00",
       "end": "2025-08-27T16:32:34+00:00"
     }
   },
   "moral_distribution": {
-    "Middle": 5787,
-    "Ubuntu": 4750,
-    "Chaos": 2771
+    "Middle": 5092,
+    "Ubuntu": 4242,
+    "Chaos": 2653
   },
   "cultural_categories": {
-    "Language & Expression": 3421,
-    "Social & Greeting": 2891,
-    "Food & Culture": 1234,
-    "Music & Entertainment": 987,
-    "Place & Location": 876,
-    "Sports & Recreation": 654,
-    "Identity & Philosophy": 543,
-    "Health & Traditional": 432,
-    "Work & Economy": 321,
-    "Conflict & Confrontation": 10098,
-    "General South African": 876
+    "Language & Expression": 3574,
+    "Social & Greeting": 3020,
+    "Food & Culture": 1289,
+    "Music & Entertainment": 1031,
+    "Place & Location": 914,
+    "Sports & Recreation": 683,
+    "Identity & Philosophy": 567,
+    "Health & Traditional": 451,
+    "Work & Economy": 335,
+    "Conflict & Confrontation": 10399,
+    "General South African": 914
   },
   "cultural_details": {
     "Language & Expression": {
@@ -37,7 +37,7 @@
         "hayi khona",
         "kanti wena"
       ],
-      "total_matches": 3421,
+      "total_matches": 3574,
       "unique_terms": [
         "bliksem",
         "voetsek",
@@ -53,7 +53,7 @@
         "my bru",
         "family"
       ],
-      "total_matches": 2891,
+      "total_matches": 3020,
       "unique_terms": [
         "mama",
         "baba",
@@ -69,7 +69,7 @@
         "biltong",
         "rooibos"
       ],
-      "total_matches": 1234,
+      "total_matches": 1289,
       "unique_terms": [
         "boerewors",
         "vetkoek",
@@ -85,7 +85,7 @@
         "gqom",
         "jol"
       ],
-      "total_matches": 987,
+      "total_matches": 1031,
       "unique_terms": [
         "shisa nyama",
         "shebeen",
@@ -101,7 +101,7 @@
         "Soweto",
         "township"
       ],
-      "total_matches": 876,
+      "total_matches": 914,
       "unique_terms": [
         "Jozi",
         "eGoli",
@@ -117,7 +117,7 @@
         "Kaizer Chiefs",
         "Orlando Pirates"
       ],
-      "total_matches": 654,
+      "total_matches": 683,
       "unique_terms": [
         "Amakhosi",
         "Buccaneers",
@@ -133,7 +133,7 @@
         "heritage",
         "culture"
       ],
-      "total_matches": 543,
+      "total_matches": 567,
       "unique_terms": [
         "ubuntu",
         "rainbow",
@@ -149,7 +149,7 @@
         "traditional",
         "healing"
       ],
-      "total_matches": 432,
+      "total_matches": 451,
       "unique_terms": [
         "muthi",
         "sangoma",
@@ -165,7 +165,7 @@
         "business",
         "economy"
       ],
-      "total_matches": 321,
+      "total_matches": 335,
       "unique_terms": [
         "cash",
         "job",
@@ -181,7 +181,7 @@
         "get lost",
         "challenge"
       ],
-      "total_matches": 10098,
+      "total_matches": 10399,
       "unique_terms": [
         "hayi khona",
         "bliksem",
