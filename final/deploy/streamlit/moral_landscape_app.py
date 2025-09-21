@@ -1276,7 +1276,7 @@ def main():
                         "Select Channel for Analysis",
                         options=display_names,
                         index=default_index,
-                        key="main_channel_selector",
+                        key="main_channel_selector_tab3",
                         help="Choose a content creator to analyze their moral framework patterns"
                     )
                     
@@ -1294,64 +1294,77 @@ def main():
             video_moral_data = []
 
             # Filter by selected channel
-
-            if df_ord is not None:
+            if df_ord is not None and selected_channel is not None:
                 channel_data = df_ord[df_ord["source"] == selected_channel]
+                
+                # Check if we have data for this channel
+                if len(channel_data) == 0:
+                    st.warning(f"No data available for channel: {selected_display_name}")
+                    return
             else:
                 st.error("No data available for analysis")
                 return
                 
             # Get unique video IDs and sort them for consistent ordering
-            unique_videos = sorted([vid for vid in set(channel_data["video_id"]) if not pd.isna(vid) and vid != 'unknown_video'])
+            try:
+                unique_videos = sorted([vid for vid in set(channel_data["video_id"]) if not pd.isna(vid) and vid != 'unknown_video'])
                 
-            for video_index, vid in enumerate(unique_videos, 1):
-                video_data = channel_data[channel_data["video_id"] == vid]
-                if len(video_data) < 5:  # Skip videos with too few comments
-                    continue
+                if len(unique_videos) == 0:
+                    st.warning(f"No video data available for channel: {selected_display_name}")
+                    return
                 
-                # Calculate moral framework distribution for this video (province)
-                if isinstance(video_data, pd.DataFrame):
-                    moral_counts = video_data['moral_label'].value_counts()
-                else:
-                    continue
+                for video_index, vid in enumerate(unique_videos, 1):
+                    video_data = channel_data[channel_data["video_id"] == vid]
+                    if len(video_data) < 5:  # Skip videos with too few comments
+                        continue
+                    
+                    # Calculate moral framework distribution for this video (province)
+                    if isinstance(video_data, pd.DataFrame):
+                        moral_counts = video_data['moral_label'].value_counts()
+                    else:
+                        continue
+                    
+                    total_comments = len(video_data)
+                    
+                    # Determine dominant framework and intensity
+                    ubuntu_pct = (moral_counts.get('Ubuntu', 0) or 0) / total_comments * 100
+                    middle_pct = (moral_counts.get('Middle', 0) or 0) / total_comments * 100
+                    chaos_pct = (moral_counts.get('Chaos', 0) or 0) / total_comments * 100
+                    
+                    # Determine dominant framework (Ubuntu vs Chaos only)
+                    max_pct = max(ubuntu_pct, chaos_pct)
+                    if ubuntu_pct == max_pct:
+                        dominant_framework = "Ubuntu"
+                        framework_color = "#006400"  # Dark green
+                    else:
+                        dominant_framework = "Chaos"
+                        framework_color = "#8B0000"  # Dark red
+                    
+                    # Framework intensity (how dominant the framework is)
+                    intensity = max_pct / 100.0
+                    
+                    # Get channel name from the data
+                    channel_name = video_data['source'].iloc[0] if len(video_data) > 0 else 'Unknown'
+                    
+                    # Create clean video name for UI display (Video 1, Video 2, etc.)
+                    video_name = f"Video {video_index}"
+                    
+                    video_moral_data.append({
+                        'video_id': vid,
+                        'video_name': video_name,
+                        'dominant_framework': dominant_framework,
+                        'framework_color': framework_color,
+                        'intensity': intensity,
+                        'ubuntu_pct': ubuntu_pct,
+                        'middle_pct': middle_pct,
+                        'chaos_pct': chaos_pct,
+                        'total_comments': total_comments,
+                        'channel': channel_name
+                    })
                 
-                total_comments = len(video_data)
-                
-                # Determine dominant framework and intensity
-                ubuntu_pct = (moral_counts.get('Ubuntu', 0) or 0) / total_comments * 100
-                middle_pct = (moral_counts.get('Middle', 0) or 0) / total_comments * 100
-                chaos_pct = (moral_counts.get('Chaos', 0) or 0) / total_comments * 100
-                
-                # Determine dominant framework (Ubuntu vs Chaos only)
-                max_pct = max(ubuntu_pct, chaos_pct)
-                if ubuntu_pct == max_pct:
-                    dominant_framework = "Ubuntu"
-                    framework_color = "#006400"  # Dark green
-                else:
-                    dominant_framework = "Chaos"
-                    framework_color = "#8B0000"  # Dark red
-                
-                # Framework intensity (how dominant the framework is)
-                intensity = max_pct / 100.0
-                
-                # Get channel name from the data
-                channel_name = video_data['source'].iloc[0] if len(video_data) > 0 else 'Unknown'
-                
-                # Create clean video name for UI display (Video 1, Video 2, etc.)
-                video_name = f"Video {video_index}"
-                
-                video_moral_data.append({
-                    'video_id': vid,
-                    'video_name': video_name,
-                    'dominant_framework': dominant_framework,
-                    'framework_color': framework_color,
-                    'intensity': intensity,
-                    'ubuntu_pct': ubuntu_pct,
-                    'middle_pct': middle_pct,
-                    'chaos_pct': chaos_pct,
-                    'total_comments': total_comments,
-                    'channel': channel_name
-                })
+            except Exception as e:
+                st.error(f"Error processing channel data: {str(e)}")
+                return
                 
             if not video_moral_data:
                 st.info("No videos found with sufficient data for moral analysis.")
